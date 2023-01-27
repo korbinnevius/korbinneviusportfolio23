@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://korbinnevius.github.io/korbinneviusportfolio23/"
 languageCode = "en-us"
 title = "Korbin Nevius"
 theme = "personal-web"
@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "Hi, I'm Korbin"
+  sub = "I'm an Immersive Media Designer"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
