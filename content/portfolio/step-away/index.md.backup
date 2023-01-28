@@ -7,7 +7,7 @@ work: [design, game development]
 techs: [Blender, C-Sharp, Unity]
 designs: [Unity3D]
 thumbnail: step-away/step-away.png
-projectUrl: https:/www.sampleorganization.org
+projectUrl: https://github.com/korbinnevius/Step-Away
 ---
 
 Inspired by the idea of wanting to get away from all of the stress and responsibilities of your daily life, Step-Away was idea me and my group decided on for our final project of one of our Immersive Media (IMM) class. I worked with Lane Macy and Malik George who made the light adjuster and radio respectively.
@@ -18,12 +18,12 @@ You are being called by your family to go and help while in the middle of your w
 
 I modeled, animated, and worked on the cube puzzle which is what the other interactions set the environment for solving.  
 
-![Solving Cube](/korbinportfolio23/static/images/portfolio/step-away/solve-cube.gif)   
+![Solving Cube](/korbinneviusportfolio23/images/portfolio/step-away/solve-cube.gif)   
 
-![Dissolving Case](../../../static/images/portfolio/step-away/case-dissolving.gif)   
+![Dissolving Case](/korbinneviusportfolio23/images/portfolio/step-away/case-dissolving.gif)   
 
 Other than the other interactable objects, I created most of the other models used in the scene. These include the door, table, couch, apartment, computer, and city outside the window.  
 
-![Bouncing Table](../../../static/images/portfolio/step-away/table-bounce.gif)  
+![Bouncing Table](/korbinneviusportfolio23/images/portfolio/step-away/table-bounce.gif)  
 
-![Bouncing Couch](../../../static/images/portfolio/step-away/couch-bounce.gif)
+![Bouncing Couch](/korbinneviusportfolio23/images/portfolio/step-away/couch-bounce.gif)
