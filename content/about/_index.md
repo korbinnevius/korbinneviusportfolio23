@@ -1,6 +1,6 @@
 ---
 title: ABOUT
-description: Hey, I'm Edna West
+description: Hey, I'm Korbin Nevius
 images: ["/images/sample.jpg"]
 ---
 
@@ -10,4 +10,4 @@ Korbin’s projects currently focus on Unity scene development but he has also u
 
 Through his education and opportunities presented to him through Chatham University, he hopes to deepen his knowledge on anything relating to the field of XR and use it to create influential and meaningful pieces of work.
 
-[Resume](/resume "View My Resume")
+[Resume](/korbinneviusportfolio23/resume "View My Resume")
