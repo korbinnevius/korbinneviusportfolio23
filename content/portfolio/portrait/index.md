@@ -7,7 +7,7 @@ work: [design, 3D art]
 techs: [Adobe]
 designs: [Illustrator]
 thumbnail: portrait/mia-portrait.png
-projectUrl: https:/www.sampleorganization.org
+projectUrl: 
 ---
 
 Above is an illustrated version of my puppy, Mia, made in Adobe Illustrator. As I have been expanding my knowledge in Adobe Products, I have been looking to create electronic art of things in my life I appreciate.

@@ -7,5 +7,6 @@ work: [design, logo]
 techs: [Adobe]
 designs: [Illustrator]
 thumbnail: jed-logo/Street Billboard PSD MockUp JED Revise.png
-projectUrl: https:/www.sampleorganization.org
+projectUrl: 
 ---
+Utilized a mix of adobe products, Illustrator and Photoshop, to create a design and mock-ups for the JED Organization. Gave me the opportunity to create a new logo for an organization I support for free. I was also able to be exposed to a new use of photoshop, mockups. This allowed me to create professional images utilizing my newly created logo on products such as business cards, a website, etc.

@@ -7,7 +7,7 @@ work: [design, 3D modeling]
 techs: [Blender]
 designs: [Blender]
 thumbnail: apartment-flower/FinalFlower.png
-projectUrl: https:/www.sampleorganization.org
+projectUrl: 
 ---
 My first big Blender project where I created everything on my own. I followed Ian Huberts lazy tutorial (tutorial) for the quick city and I used the magnolia flower I made while learning about UV mapping from another tutorial (tutorial).  
 
