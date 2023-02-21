@@ -31,4 +31,4 @@ Lane designed the logic behind the shooting vines which includes range, frequenc
 Ethan created all of the sprites, animations, and sound sin the game.  
 
 ![Art Animations](/images/portfolio/root-gundam/anim-art.gif)  
-[Adudio Used In The Game](/images/portfolio/root-gundam/root-sound.wav)  
+[Audio Used In The Game](/images/portfolio/root-gundam/root-sound.wav)  
