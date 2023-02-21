@@ -1,7 +1,7 @@
 ---
 title: Looking Glass City Generation
 description: Looking Glass City Generation
-date: "2022-20-20T19:47:09+02:00"
+date: "2022-02-20T19:47:09+02:00"
 jobDate: 2022
 work: [design, game development]
 techs: [Looking Glass, C-Sharp, Unity]
