@@ -13,19 +13,19 @@ Through this project we are using virtual reality technologies to deliver experi
 
 The goal of this project is to bring this experience into a classroom setting for students to experience what a fossil site would like. Through comparing individual close up, high resolution models, to where they would be located in the site, you can learn more details than you woulds in a picture. You can also manipulate the fossil site itself with both joysticks and the levers on the table.  
 
-![Comparing Site and Model](/korbinneviusportfolio23/images/portfolio/fossil-project/gifcompare.gif)  
-![Comparing Site with Highlight](/korbinneviusportfolio23/images/portfolio/fossil-project/giffwjcompare.gif)  
+![Comparing Site and Model](/images/portfolio/fossil-project/gifcompare.gif)  
+![Comparing Site with Highlight](/images/portfolio/fossil-project/giffwjcompare.gif)  
 
 The experience also contains no sound so that you can hear the instructor walk you through the process.  
 
 On the map you can view and interact with the site locations and see where they would be located on a map. 
 
-![Map](/korbinneviusportfolio23/images/portfolio/fossil-project/gifmapselect.gif)  
+![Map](/images/portfolio/fossil-project/gifmapselect.gif)  
 
 Once you select a location, you can view the close up models that appear on the table and interact with them.  
 
-![Table Items](/korbinneviusportfolio23/images/portfolio/fossil-project/giftableitems.gif)  
+![Table Items](/images/portfolio/fossil-project/giftableitems.gif)  
 
 Throughout the entire experience if you ever forget what the controls are, you have an image to easily remember everything.
 
-![Controls](/korbinneviusportfolio23/images/portfolio/fossil-project/controls.jpg)  
+![Controls](/images/portfolio/fossil-project/controls.jpg)  

@@ -19,12 +19,12 @@ You are being called by your family to go and help while in the middle of your w
 
 I modeled, animated, and worked on the cube puzzle which is what the other interactions set the environment for solving.  
 
-![Solving Cube](/korbinneviusportfolio23/images/portfolio/step-away/solve-cube.gif)   
+![Solving Cube](/images/portfolio/step-away/solve-cube.gif)   
 
-![Dissolving Case](/korbinneviusportfolio23/images/portfolio/step-away/case-dissolving.gif)   
+![Dissolving Case](/images/portfolio/step-away/case-dissolving.gif)   
 
 Other than the other interactable objects, I created most of the other models used in the scene. These include the door, table, couch, apartment, computer, and city outside the window.  
 
-![Bouncing Table](/korbinneviusportfolio23/images/portfolio/step-away/table-bounce.gif)  
+![Bouncing Table](/images/portfolio/step-away/table-bounce.gif)  
 
-![Bouncing Couch](/korbinneviusportfolio23/images/portfolio/step-away/couch-bounce.gif)
+![Bouncing Couch](/images/portfolio/step-away/couch-bounce.gif)

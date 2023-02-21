@@ -1,4 +1,4 @@
-baseURL = "https://korbinnevius.github.io/korbinneviusportfolio23/"
+baseURL = "korbinnevius.com"
 languageCode = "en-us"
 title = "Korbin Nevius"
 theme = "personal-web"
@@ -40,9 +40,9 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '/korbinneviusportfolio23/images/dataVis.png' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = '/images/dataVis.png' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = '/korbinneviusportfolio23/images/korbinHeadshot.png' # - default "/images/edna-west.jpg"
+  logo = '/images/korbinHeadshot.png' # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
