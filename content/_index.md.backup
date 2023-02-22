@@ -7,6 +7,5 @@ images: [""]
 Hey,
 
 I'm Korbin Nevius, a current student at Chatham University with a major in Immersive Media and a minor in Graphic Design.  
-(personal statement)
 
 [Get to know me better](/about "Get to know me better")
