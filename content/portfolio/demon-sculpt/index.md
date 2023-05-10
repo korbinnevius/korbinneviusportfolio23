@@ -11,7 +11,7 @@ projectUrl:
 ---
 My first sculpt using Mudbox in tandem with Maya. I created this with the guidance of someone creating their own character. I utilized the core ideas they presented me while adjusting them to fit the image that I was going for. 
 
-Still learning to rig and animate the model, more images/videos to come!
+Still learning to rig and animate the model, more images/videos to come! Also looking to paint the model and make it game ready!
 
 ![Full-Demon](/images/portfolio/demon-sculpt/demon-no-lighting.png)  
 ![Full-Demon-Color](/images/portfolio/demon-sculpt/demon-lighting.png)  
