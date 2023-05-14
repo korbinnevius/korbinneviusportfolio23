@@ -13,6 +13,7 @@ projectUrl:
 Song: *[Starlight](https://www.youtube.com/watch?v=ipOAfI-IAMo)* by Rogue.  
 
 [Music Video](/images/portfolio/music-video/nevius-starlight-02.mp4)  
+**Having complications adding the final video**
 
 Through this project I am learning to make a visual music video in Unity by utilizing the HDRP scene template. Through this project I have learned to utilize the Cinemachine camera system, unity recorder, timeline, and Premier to develop a new workflow designed for video editing.  
 
