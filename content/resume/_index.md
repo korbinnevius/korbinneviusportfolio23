@@ -3,6 +3,6 @@ title: Resume
 description: 'Resume'
 ---
 
-![Resume](/images/resume/nevius-resume.jpg)  
+![Resume](/images/resume/nevius-intern-resume.jpg)  
 
-[Download Resume Here](/images/resume/nevius-resume.pdf)
+[Download Resume Here](/images/resume/nevius-intern-resume.pdf)
