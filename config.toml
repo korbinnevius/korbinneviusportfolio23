@@ -40,11 +40,11 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '/images/dataVis.png' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = '/images/ice.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/korbinHeadshot.png" # - default "/images/edna-west.jpg"
+  logo = "/images/headshot.png" # - default "/images/edna-west.jpg"
 [params.assets]
-  favicon = ""
+  favicon = "favicon-temp.png"
   customCSS = ""
 
 [params.social]
@@ -79,6 +79,20 @@ pygmentsCodeFences=true
   title = "Resume"
   url = "/resume/"
   weight = -100
+
+#[[menu.main]]
+#  identifier = "featured"
+#  name = "Featured"
+#  title = "Featured"
+#  url = "/featured/"
+#  weight = -100
+#
+#[[menu.main]]
+#  identifier = "current"
+#  name = "Current"
+#  title = "Current"
+#  url = "/current/"
+#  weight = -100
 
 [sitemap]
   changefreq = "monthly"
