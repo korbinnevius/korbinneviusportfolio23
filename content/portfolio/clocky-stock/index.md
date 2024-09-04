@@ -12,3 +12,8 @@ projectUrl:
 Using references provided to me, I used a combination of Maya and Photoshop in order to render Clocky in images. The goal was to be as realistic and possible and maintain consistency with both the images as well as the multiple colors. There were 5 main reference images used when creating these images. Some images had a Clocky or prop in it that I needed to remove in order to place the new rendered out Clocky. This led me to learning more in-depth Photoshop in order to make the image ready for the render as well as to blend the render into the image. Some renders also switched to me manipulating the render in a way that gave me a close up image of the Clocky as well. 
 
 Throughout this process I also learned how to use software such as FSpy but ended up moving away from that and worked on matching the grid to the floor plane of the image.
+  
+![chair-lav-full](/images/portfolio/clocky/clocky_lav_chair_full.jpg)  
+![plant-lav-full](/images/portfolio/clocky/clocky_lav_plant_full.jpg)  
+![carpet-lav-full](/images/portfolio/clocky/clocky_lav_carpet_full.jpg)  
+![counter-lav-full](/images/portfolio/clocky/lav_counter_full.jpg)  
