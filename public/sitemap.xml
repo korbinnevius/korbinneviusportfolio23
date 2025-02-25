@@ -2,276 +2,226 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:64032/portfolio/mimic/</loc>
+    <loc>//localhost:1313/portfolio/mimic/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/designs/</loc>
+    <loc>//localhost:1313/designs/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/marmoset-toolbag/</loc>
+    <loc>//localhost:1313/techs/marmoset-toolbag/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/marvelous-designer/</loc>
+    <loc>//localhost:1313/techs/marvelous-designer/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/maya/</loc>
+    <loc>//localhost:1313/techs/maya/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/</loc>
+    <loc>//localhost:1313/portfolio/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/substance-painter/</loc>
+    <loc>//localhost:1313/techs/substance-painter/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/</loc>
+    <loc>//localhost:1313/techs/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/zbrush/</loc>
+    <loc>//localhost:1313/techs/zbrush/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/designs/zbrush/</loc>
+    <loc>//localhost:1313/designs/zbrush/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/arnold/</loc>
+    <loc>//localhost:1313/techs/arnold/</loc>
     <lastmod>2024-08-20T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/clocky/</loc>
+    <loc>//localhost:1313/portfolio/clocky/</loc>
     <lastmod>2024-08-20T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/clocky-stock/</loc>
+    <loc>//localhost:1313/portfolio/clocky-stock/</loc>
     <lastmod>2024-08-20T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/designs/maya/</loc>
+    <loc>//localhost:1313/designs/maya/</loc>
     <lastmod>2024-08-20T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/photoshop/</loc>
+    <loc>//localhost:1313/techs/photoshop/</loc>
     <lastmod>2024-08-20T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/designs/adobe-creative-suite/</loc>
-    <lastmod>2023-12-01T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/techs/adobe-illustrator/</loc>
-    <lastmod>2023-12-01T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/techs/adobe-photoshop/</loc>
-    <lastmod>2023-12-01T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/techs/houdini/</loc>
-    <lastmod>2023-12-01T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/portfolio/typography-quote/</loc>
-    <lastmod>2023-12-01T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/portfolio/typography-pamphlet/</loc>
-    <lastmod>2023-11-15T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/techs/blender/</loc>
+    <loc>//localhost:1313/techs/blender/</loc>
     <lastmod>2023-11-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/c-sharp/</loc>
+    <loc>//localhost:1313/techs/c-sharp/</loc>
     <lastmod>2023-11-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/designs/houdini/</loc>
+    <loc>//localhost:1313/techs/houdini/</loc>
     <lastmod>2023-11-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/random-flow/</loc>
+    <loc>//localhost:1313/designs/houdini/</loc>
     <lastmod>2023-11-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/the-rest-of-us/</loc>
+    <loc>//localhost:1313/techs/random-flow/</loc>
     <lastmod>2023-11-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/unity/</loc>
+    <loc>//localhost:1313/portfolio/the-rest-of-us/</loc>
     <lastmod>2023-11-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/designs/unity3d/</loc>
+    <loc>//localhost:1313/techs/unity/</loc>
     <lastmod>2023-11-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/designs/blender/</loc>
+    <loc>//localhost:1313/designs/unity3d/</loc>
+    <lastmod>2023-11-14T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/designs/blender/</loc>
     <lastmod>2023-11-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/davinci/</loc>
+    <loc>//localhost:1313/techs/davinci/</loc>
     <lastmod>2023-11-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/sci-fi-render/</loc>
+    <loc>//localhost:1313/portfolio/sci-fi-render/</loc>
     <lastmod>2023-11-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/demon-sculpt/</loc>
+    <loc>//localhost:1313/portfolio/demon-sculpt/</loc>
     <lastmod>2023-05-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/mudbox/</loc>
+    <loc>//localhost:1313/techs/mudbox/</loc>
     <lastmod>2023-05-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/designs/mudbox/</loc>
+    <loc>//localhost:1313/designs/mudbox/</loc>
     <lastmod>2023-05-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/lasp-vfx/</loc>
+    <loc>//localhost:1313/techs/lasp-vfx/</loc>
     <lastmod>2023-04-15T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/make-human/</loc>
+    <loc>//localhost:1313/techs/make-human/</loc>
     <lastmod>2023-04-15T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/premier/</loc>
+    <loc>//localhost:1313/techs/premier/</loc>
     <lastmod>2023-04-15T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/music-video/</loc>
+    <loc>//localhost:1313/portfolio/music-video/</loc>
     <lastmod>2023-04-15T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/a-sprite/</loc>
+    <loc>//localhost:1313/techs/a-sprite/</loc>
     <lastmod>2023-02-05T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/root-gundam/</loc>
+    <loc>//localhost:1313/portfolio/root-gundam/</loc>
     <lastmod>2023-02-05T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/step-away/</loc>
+    <loc>//localhost:1313/portfolio/step-away/</loc>
     <lastmod>2022-12-08T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/nodevember-asteroid-village/</loc>
-    <lastmod>2022-11-29T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/portfolio/nodevember-jellyfish/</loc>
+    <loc>//localhost:1313/portfolio/nodevember-jellyfish/</loc>
     <lastmod>2022-11-05T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/techs/adobe/</loc>
-    <lastmod>2022-10-11T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/designs/illustrator/</loc>
-    <lastmod>2022-10-11T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/portfolio/portrait/</loc>
-    <lastmod>2022-10-11T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/techs/agisoft/</loc>
+    <loc>//localhost:1313/techs/agisoft/</loc>
     <lastmod>2022-06-24T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/fossil-project/</loc>
+    <loc>//localhost:1313/portfolio/fossil-project/</loc>
     <lastmod>2022-06-24T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/apartment-flower/</loc>
+    <loc>//localhost:1313/portfolio/apartment-flower/</loc>
     <lastmod>2022-06-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/jed-logo/</loc>
-    <lastmod>2022-04-18T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:64032/techs/looking-glass/</loc>
+    <loc>//localhost:1313/techs/looking-glass/</loc>
     <lastmod>2022-02-20T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/portfolio/looking-glass/</loc>
+    <loc>//localhost:1313/portfolio/looking-glass/</loc>
     <lastmod>2022-02-20T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:64032/resume/</loc>
+    <loc>//localhost:1313/resume/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,67 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Korbin Nevius</title>
-    <link>//localhost:64032/designs/</link>
+    <link>//localhost:1313/designs/</link>
     <description>Recent content in Designs on Korbin Nevius</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
     <lastBuildDate>Sun, 09 Feb 2025 19:47:09 +0200</lastBuildDate>
-    <atom:link href="//localhost:64032/designs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/designs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZBrush</title>
-      <link>//localhost:64032/designs/zbrush/</link>
+      <link>//localhost:1313/designs/zbrush/</link>
       <pubDate>Sun, 09 Feb 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/designs/zbrush/</guid>
+      <guid>//localhost:1313/designs/zbrush/</guid>
       <description></description>
     </item>
     <item>
       <title>Maya</title>
-      <link>//localhost:64032/designs/maya/</link>
+      <link>//localhost:1313/designs/maya/</link>
       <pubDate>Tue, 20 Aug 2024 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/designs/maya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Adobe Creative Suite</title>
-      <link>//localhost:64032/designs/adobe-creative-suite/</link>
-      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/designs/adobe-creative-suite/</guid>
+      <guid>//localhost:1313/designs/maya/</guid>
       <description></description>
     </item>
     <item>
       <title>Houdini</title>
-      <link>//localhost:64032/designs/houdini/</link>
+      <link>//localhost:1313/designs/houdini/</link>
       <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/designs/houdini/</guid>
+      <guid>//localhost:1313/designs/houdini/</guid>
       <description></description>
     </item>
     <item>
       <title>Unity3D</title>
-      <link>//localhost:64032/designs/unity3d/</link>
+      <link>//localhost:1313/designs/unity3d/</link>
       <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/designs/unity3d/</guid>
+      <guid>//localhost:1313/designs/unity3d/</guid>
       <description></description>
     </item>
     <item>
       <title>Blender</title>
-      <link>//localhost:64032/designs/blender/</link>
+      <link>//localhost:1313/designs/blender/</link>
       <pubDate>Thu, 09 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/designs/blender/</guid>
+      <guid>//localhost:1313/designs/blender/</guid>
       <description></description>
     </item>
     <item>
       <title>Mudbox</title>
-      <link>//localhost:64032/designs/mudbox/</link>
+      <link>//localhost:1313/designs/mudbox/</link>
       <pubDate>Tue, 09 May 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/designs/mudbox/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Illustrator</title>
-      <link>//localhost:64032/designs/illustrator/</link>
-      <pubDate>Tue, 11 Oct 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/designs/illustrator/</guid>
+      <guid>//localhost:1313/designs/mudbox/</guid>
       <description></description>
     </item>
   </channel>

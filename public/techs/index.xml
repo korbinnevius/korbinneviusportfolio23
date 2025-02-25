@@ -2,172 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on Korbin Nevius</title>
-    <link>//localhost:64032/techs/</link>
+    <link>//localhost:1313/techs/</link>
     <description>Recent content in Techs on Korbin Nevius</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
     <lastBuildDate>Sun, 09 Feb 2025 19:47:09 +0200</lastBuildDate>
-    <atom:link href="//localhost:64032/techs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/techs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marmoset Toolbag</title>
-      <link>//localhost:64032/techs/marmoset-toolbag/</link>
+      <link>//localhost:1313/techs/marmoset-toolbag/</link>
       <pubDate>Sun, 09 Feb 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/marmoset-toolbag/</guid>
+      <guid>//localhost:1313/techs/marmoset-toolbag/</guid>
       <description></description>
     </item>
     <item>
       <title>Marvelous Designer</title>
-      <link>//localhost:64032/techs/marvelous-designer/</link>
+      <link>//localhost:1313/techs/marvelous-designer/</link>
       <pubDate>Sun, 09 Feb 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/marvelous-designer/</guid>
+      <guid>//localhost:1313/techs/marvelous-designer/</guid>
       <description></description>
     </item>
     <item>
       <title>Maya</title>
-      <link>//localhost:64032/techs/maya/</link>
+      <link>//localhost:1313/techs/maya/</link>
       <pubDate>Sun, 09 Feb 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/maya/</guid>
+      <guid>//localhost:1313/techs/maya/</guid>
       <description></description>
     </item>
     <item>
       <title>Substance Painter</title>
-      <link>//localhost:64032/techs/substance-painter/</link>
+      <link>//localhost:1313/techs/substance-painter/</link>
       <pubDate>Sun, 09 Feb 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/substance-painter/</guid>
+      <guid>//localhost:1313/techs/substance-painter/</guid>
       <description></description>
     </item>
     <item>
       <title>ZBrush</title>
-      <link>//localhost:64032/techs/zbrush/</link>
+      <link>//localhost:1313/techs/zbrush/</link>
       <pubDate>Sun, 09 Feb 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/zbrush/</guid>
+      <guid>//localhost:1313/techs/zbrush/</guid>
       <description></description>
     </item>
     <item>
       <title>Arnold</title>
-      <link>//localhost:64032/techs/arnold/</link>
+      <link>//localhost:1313/techs/arnold/</link>
       <pubDate>Tue, 20 Aug 2024 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/arnold/</guid>
+      <guid>//localhost:1313/techs/arnold/</guid>
       <description></description>
     </item>
     <item>
       <title>Photoshop</title>
-      <link>//localhost:64032/techs/photoshop/</link>
+      <link>//localhost:1313/techs/photoshop/</link>
       <pubDate>Tue, 20 Aug 2024 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/photoshop/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Adobe Illustrator</title>
-      <link>//localhost:64032/techs/adobe-illustrator/</link>
-      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/adobe-illustrator/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Adobe Photoshop</title>
-      <link>//localhost:64032/techs/adobe-photoshop/</link>
-      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/adobe-photoshop/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Houdini</title>
-      <link>//localhost:64032/techs/houdini/</link>
-      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/houdini/</guid>
+      <guid>//localhost:1313/techs/photoshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Blender</title>
-      <link>//localhost:64032/techs/blender/</link>
+      <link>//localhost:1313/techs/blender/</link>
       <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/blender/</guid>
+      <guid>//localhost:1313/techs/blender/</guid>
       <description></description>
     </item>
     <item>
       <title>C-Sharp</title>
-      <link>//localhost:64032/techs/c-sharp/</link>
+      <link>//localhost:1313/techs/c-sharp/</link>
       <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/c-sharp/</guid>
+      <guid>//localhost:1313/techs/c-sharp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Houdini</title>
+      <link>//localhost:1313/techs/houdini/</link>
+      <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/houdini/</guid>
       <description></description>
     </item>
     <item>
       <title>Random Flow</title>
-      <link>//localhost:64032/techs/random-flow/</link>
+      <link>//localhost:1313/techs/random-flow/</link>
       <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/random-flow/</guid>
+      <guid>//localhost:1313/techs/random-flow/</guid>
       <description></description>
     </item>
     <item>
       <title>Unity</title>
-      <link>//localhost:64032/techs/unity/</link>
+      <link>//localhost:1313/techs/unity/</link>
       <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/unity/</guid>
+      <guid>//localhost:1313/techs/unity/</guid>
       <description></description>
     </item>
     <item>
       <title>DaVinci</title>
-      <link>//localhost:64032/techs/davinci/</link>
+      <link>//localhost:1313/techs/davinci/</link>
       <pubDate>Thu, 09 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/davinci/</guid>
+      <guid>//localhost:1313/techs/davinci/</guid>
       <description></description>
     </item>
     <item>
       <title>Mudbox</title>
-      <link>//localhost:64032/techs/mudbox/</link>
+      <link>//localhost:1313/techs/mudbox/</link>
       <pubDate>Tue, 09 May 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/mudbox/</guid>
+      <guid>//localhost:1313/techs/mudbox/</guid>
       <description></description>
     </item>
     <item>
       <title>Lasp-VFX</title>
-      <link>//localhost:64032/techs/lasp-vfx/</link>
+      <link>//localhost:1313/techs/lasp-vfx/</link>
       <pubDate>Sat, 15 Apr 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/lasp-vfx/</guid>
+      <guid>//localhost:1313/techs/lasp-vfx/</guid>
       <description></description>
     </item>
     <item>
       <title>Make Human</title>
-      <link>//localhost:64032/techs/make-human/</link>
+      <link>//localhost:1313/techs/make-human/</link>
       <pubDate>Sat, 15 Apr 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/make-human/</guid>
+      <guid>//localhost:1313/techs/make-human/</guid>
       <description></description>
     </item>
     <item>
       <title>Premier</title>
-      <link>//localhost:64032/techs/premier/</link>
+      <link>//localhost:1313/techs/premier/</link>
       <pubDate>Sat, 15 Apr 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/premier/</guid>
+      <guid>//localhost:1313/techs/premier/</guid>
       <description></description>
     </item>
     <item>
       <title>A-Sprite</title>
-      <link>//localhost:64032/techs/a-sprite/</link>
+      <link>//localhost:1313/techs/a-sprite/</link>
       <pubDate>Sun, 05 Feb 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/a-sprite/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Adobe</title>
-      <link>//localhost:64032/techs/adobe/</link>
-      <pubDate>Tue, 11 Oct 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/adobe/</guid>
+      <guid>//localhost:1313/techs/a-sprite/</guid>
       <description></description>
     </item>
     <item>
       <title>Agisoft</title>
-      <link>//localhost:64032/techs/agisoft/</link>
+      <link>//localhost:1313/techs/agisoft/</link>
       <pubDate>Fri, 24 Jun 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/agisoft/</guid>
+      <guid>//localhost:1313/techs/agisoft/</guid>
       <description></description>
     </item>
     <item>
       <title>Looking Glass</title>
-      <link>//localhost:64032/techs/looking-glass/</link>
+      <link>//localhost:1313/techs/looking-glass/</link>
       <pubDate>Sun, 20 Feb 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:64032/techs/looking-glass/</guid>
+      <guid>//localhost:1313/techs/looking-glass/</guid>
       <description></description>
     </item>
   </channel>
