@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agisoft on Korbin Nevius</title>
+    <link>//localhost:1313/techs/agisoft/</link>
+    <description>Recent content in Agisoft on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Fri, 24 Jun 2022 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/techs/agisoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiencing Prehistory Through Virtual Reality</title>
+      <link>//localhost:1313/portfolio/fossil-project/</link>
+      <pubDate>Fri, 24 Jun 2022 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/fossil-project/</guid>
+      <description>&lt;p&gt;Through this project we are using virtual reality technologies to deliver experiences where Chatham students can interact “directly” with these extremely rare and typically inaccessible discoveries.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project is to bring this experience into a classroom setting for students to experience what a fossil site would like. Through comparing individual close up, high resolution models, to where they would be located in the site, you can learn more details than you woulds in a picture. You can also manipulate the fossil site itself with both joysticks and the levers on the table.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

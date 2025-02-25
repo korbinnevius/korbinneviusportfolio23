@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Looking Glass on Korbin Nevius</title>
+    <link>//localhost:1313/techs/looking-glass/</link>
+    <description>Recent content in Looking Glass on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Sun, 20 Feb 2022 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/techs/looking-glass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Looking Glass City Generation</title>
+      <link>//localhost:1313/portfolio/looking-glass/</link>
+      <pubDate>Sun, 20 Feb 2022 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/looking-glass/</guid>
+      <description>&lt;p&gt;Utilizing the tangram add-on and looking glass device as well as software, I was able to create a project where a city would generate and be displayed on the Looking Glass.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/looking-glass/rotate-view.gif&#34; alt=&#34;City Display&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The tangram add-on provides you an API key to generate map data based on the coordinates given to it. This includes data such as bodies of water, land, and buildings. The generated objects are fully customizable in terms of materials.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DaVinci on Korbin Nevius</title>
+    <link>//localhost:1313/techs/davinci/</link>
+    <description>Recent content in DaVinci on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Thu, 09 Nov 2023 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/techs/davinci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sci-Fi Render</title>
+      <link>//localhost:1313/portfolio/sci-fi-render/</link>
+      <pubDate>Thu, 09 Nov 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/sci-fi-render/</guid>
+      <description>&lt;p&gt;First project that I rendered in Houdini. I made the model in Blender with the &lt;a href=&#34;https://blenderguppy.gumroad.com/l/randomflow&#34;&gt;RandomFlow&lt;/a&gt; add-on by Blender Guppy. I then transitioned the model into Houdini for fixing the UVs. After, I transitioned to Substance Painter in order to texture everything and then finally moving back to Houdini to render in Solaris.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

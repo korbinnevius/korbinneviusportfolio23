@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Premier on Korbin Nevius</title>
+    <link>//localhost:1313/techs/premier/</link>
+    <description>Recent content in Premier on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Sat, 15 Apr 2023 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/techs/premier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starlight Music Video</title>
+      <link>//localhost:1313/portfolio/music-video/</link>
+      <pubDate>Sat, 15 Apr 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/music-video/</guid>
+      <description>&lt;p&gt;Song: &lt;em&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ipOAfI-IAMo&#34;&gt;Starlight&lt;/a&gt;&lt;/em&gt; by Rogue.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//localhost:1313/images/portfolio/music-video/nevius-starlight-02.mp4&#34;&gt;Music Video&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Having complications adding the final video&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Through this project I am learning to make a visual music video in Unity by utilizing the HDRP scene template. Through this project I have learned to utilize the Cinemachine camera system, unity recorder, timeline, and Premier to develop a new workflow designed for video editing.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project is to develop a music video that tells a story using a song of my choice and the Unity software. I learned about basic video editing in Adobe Premier as well as the &lt;a href=&#34;https://github.com/keijiro/LaspVfx&#34;&gt;Lasp-VFX&lt;/a&gt; tool by Keijiro. Early design was through multiple storyboards to block out the general ideas that wanted to act on.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

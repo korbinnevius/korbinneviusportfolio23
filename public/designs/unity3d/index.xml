@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity3D on Korbin Nevius</title>
+    <link>//localhost:1313/designs/unity3d/</link>
+    <description>Recent content in Unity3D on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Tue, 14 Nov 2023 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/designs/unity3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rest of Us</title>
+      <link>//localhost:1313/portfolio/the-rest-of-us/</link>
+      <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/the-rest-of-us/</guid>
+      <description>&lt;h4 id=&#34;korbin-nevius-evan-alexander-malik-george-ethan-derstine-sam-caloiero&#34;&gt;Korbin Nevius, Evan Alexander, Malik George, Ethan Derstine, Sam Caloiero&lt;/h4&gt;&#xA;&lt;h5 id=&#34;imm-406-prototyping-for-advanced-systems&#34;&gt;IMM 406 Prototyping For Advanced Systems&lt;/h5&gt;&#xA;&lt;h5 id=&#34;fall-23&#34;&gt;Fall 23&lt;/h5&gt;&#xA;&lt;h5 id=&#34;prototype-2&#34;&gt;Prototype 2&lt;/h5&gt;&#xA;&lt;p&gt;In this sci-fi styled project the player shoots a ball down a rotating tech tube that has spinning bricks. Utilizing hand tracking through the Ultra Leap, the player moves their hand to destroy the bricks. When the player destroys the bricks, more spawn in for the player to face and continuously loops until the player loses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Starlight Music Video</title>
+      <link>//localhost:1313/portfolio/music-video/</link>
+      <pubDate>Sat, 15 Apr 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/music-video/</guid>
+      <description>&lt;p&gt;Song: &lt;em&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ipOAfI-IAMo&#34;&gt;Starlight&lt;/a&gt;&lt;/em&gt; by Rogue.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//localhost:1313/images/portfolio/music-video/nevius-starlight-02.mp4&#34;&gt;Music Video&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Having complications adding the final video&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Through this project I am learning to make a visual music video in Unity by utilizing the HDRP scene template. Through this project I have learned to utilize the Cinemachine camera system, unity recorder, timeline, and Premier to develop a new workflow designed for video editing.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project is to develop a music video that tells a story using a song of my choice and the Unity software. I learned about basic video editing in Adobe Premier as well as the &lt;a href=&#34;https://github.com/keijiro/LaspVfx&#34;&gt;Lasp-VFX&lt;/a&gt; tool by Keijiro. Early design was through multiple storyboards to block out the general ideas that wanted to act on.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Root Gundam</title>
+      <link>//localhost:1313/portfolio/root-gundam/</link>
+      <pubDate>Sun, 05 Feb 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/root-gundam/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/root-gundam/beating-root-gundam.gif&#34; alt=&#34;Root Gundam Gameplay&#34;&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/korbinnevius/RootGundamGGJ&#34;&gt;Repository for Unity Project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Inspired by the prompt of &lt;em&gt;Roots&lt;/em&gt; for the Global Game Jam 2023 and the shared desire of making a bullet hell type game with my group, we went on to create Root Gundam.&lt;/p&gt;&#xA;&lt;p&gt;This is a game where you are the embodiment of technology and your mission is to eliminate the last pillar of nature.&lt;/p&gt;&#xA;&lt;p&gt;With the help of Lane Macy and Ethan Derstine we were able to create this concept of a game where you dash around avoiding vines (projectiles) while shooting at the boss, Mr.T.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Step Away</title>
+      <link>//localhost:1313/portfolio/step-away/</link>
+      <pubDate>Thu, 08 Dec 2022 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/step-away/</guid>
+      <description>&lt;p&gt;Inspired by the idea of wanting to get away from all of the stress and responsibilities of your daily life, Step-Away was idea me and my group decided on for our final project of one of our Immersive Media (IMM) class. I worked with Lane Macy and Malik George who made the light adjuster and radio respectively.&lt;/p&gt;&#xA;&lt;p&gt;This is a collaborative environment where you play around and solve a puzzle cube located on the table in front of you while being able to adjust the lighting and music of the scene.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experiencing Prehistory Through Virtual Reality</title>
+      <link>//localhost:1313/portfolio/fossil-project/</link>
+      <pubDate>Fri, 24 Jun 2022 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/fossil-project/</guid>
+      <description>&lt;p&gt;Through this project we are using virtual reality technologies to deliver experiences where Chatham students can interact “directly” with these extremely rare and typically inaccessible discoveries.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project is to bring this experience into a classroom setting for students to experience what a fossil site would like. Through comparing individual close up, high resolution models, to where they would be located in the site, you can learn more details than you woulds in a picture. You can also manipulate the fossil site itself with both joysticks and the levers on the table.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Looking Glass City Generation</title>
+      <link>//localhost:1313/portfolio/looking-glass/</link>
+      <pubDate>Sun, 20 Feb 2022 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/looking-glass/</guid>
+      <description>&lt;p&gt;Utilizing the tangram add-on and looking glass device as well as software, I was able to create a project where a city would generate and be displayed on the Looking Glass.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/looking-glass/rotate-view.gif&#34; alt=&#34;City Display&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The tangram add-on provides you an API key to generate map data based on the coordinates given to it. This includes data such as bodies of water, land, and buildings. The generated objects are fully customizable in terms of materials.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

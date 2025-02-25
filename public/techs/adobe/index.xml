@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adobe on Korbin Nevius</title>
+    <link>//localhost:1313/techs/adobe/</link>
+    <description>Recent content in Adobe on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Mon, 18 Apr 2022 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/techs/adobe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JED Logo</title>
+      <link>//localhost:1313/portfolio/jed-logo/</link>
+      <pubDate>Mon, 18 Apr 2022 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/jed-logo/</guid>
+      <description>&lt;p&gt;Utilized a mix of adobe products, Illustrator and Photoshop, to create a design and mock-ups for the JED Organization. Gave me the opportunity to create a new logo for an organization I support for free. I was also able to be exposed to a new use of photoshop, mockups. This allowed me to create professional images utilizing my newly created logo on products such as business cards, a website, etc.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
