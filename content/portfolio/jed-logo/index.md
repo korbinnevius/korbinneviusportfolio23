@@ -1,5 +1,4 @@
 ---
-draft: true
 title: JED Logo
 description: Edit of an Organizations Logo
 date: "2022-04-18T19:47:09+02:00"

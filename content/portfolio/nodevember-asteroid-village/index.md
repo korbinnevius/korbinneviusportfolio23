@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Nodevember - Asteroid Village
 description: Asteroid Village
 date: "2022-11-29T19:47:09+02:00"

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Starlight Music Video
 description: Using the song Starlight by Rogue to develop a music video in Unity and edit it in Premier.
 date: "2023-04-15T19:47:09+02:00"
