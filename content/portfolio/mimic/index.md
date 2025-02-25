@@ -6,14 +6,11 @@ jobDate: 2025
 work: [design, 3D modeling]
 techs: [ZBrush, Maya, Marmoset Toolbag, Substance Painter, Marvelous Designer]
 designs: [ZBrush]
-thumbnail: demon-sculpt/demon-lighting.png
+thumbnail: mimic/mimic_base.jpg
 projectUrl: 
 ---
-My first sculpt using Mudbox in tandem with Maya. I created this with the guidance of someone creating their own character. I utilized the core ideas they presented me while adjusting them to fit the image that I was going for. 
+Sculpting a mimic creature for a Halloween projection show that took place on the Library at Chatham University. This model was modeled in ZBrush as well as Maya, textured in Substance Painter, and rendered in Marmoset Toolbag 5. This piece was originally rendered in Unreal Engine 5 but was revised in Marmoset. The cloth backdrop was made in marvelous designer.  
 
-Still learning to rig and animate the model, more images/videos to come! Also looking to paint the model and make it game ready!
+This model was made with the focused intention of rendering but is being worked on on the side to be rigged and animated.
 
-![Full-Demon](/images/portfolio/demon-sculpt/demon-no-lighting.png)  
-![Full-Demon-Color](/images/portfolio/demon-sculpt/demon-lighting.png)  
-![Back-Demon](/images/portfolio/demon-sculpt/demon-back.png)  
-![Head-Demon](/images/portfolio/demon-sculpt/demon-head.png)  
+![mimic](/images/portfolio/mimic/mimic_ao.jpg)  

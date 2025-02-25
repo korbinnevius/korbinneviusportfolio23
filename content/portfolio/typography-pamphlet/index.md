@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Typography Pamphlet
 description: Pamphlet project for Typography Class
 date: "2023-11-15T19:47:09+02:00"

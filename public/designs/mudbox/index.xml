@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mudbox on Korbin Nevius</title>
+    <link>//localhost:64032/designs/mudbox/</link>
+    <description>Recent content in Mudbox on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Tue, 09 May 2023 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:64032/designs/mudbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demon Sculpt</title>
+      <link>//localhost:64032/portfolio/demon-sculpt/</link>
+      <pubDate>Tue, 09 May 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:64032/portfolio/demon-sculpt/</guid>
+      <description>&lt;p&gt;My first sculpt using Mudbox in tandem with Maya. I created this with the guidance of someone creating their own character. I utilized the core ideas they presented me while adjusting them to fit the image that I was going for.&lt;/p&gt;&#xA;&lt;p&gt;Still learning to rig and animate the model, more images/videos to come! Also looking to paint the model and make it game ready!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-no-lighting.png&#34; alt=&#34;Full-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-lighting.png&#34; alt=&#34;Full-Demon-Color&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-back.png&#34; alt=&#34;Back-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-head.png&#34; alt=&#34;Head-Demon&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

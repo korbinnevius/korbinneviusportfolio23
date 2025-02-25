@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maya on Korbin Nevius</title>
+    <link>//localhost:64032/techs/maya/</link>
+    <description>Recent content in Maya on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Sun, 09 Feb 2025 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:64032/techs/maya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creature Sculpt Mimic</title>
+      <link>//localhost:64032/portfolio/mimic/</link>
+      <pubDate>Sun, 09 Feb 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:64032/portfolio/mimic/</guid>
+      <description>&lt;p&gt;My first sculpt using Mudbox in tandem with Maya. I created this with the guidance of someone creating their own character. I utilized the core ideas they presented me while adjusting them to fit the image that I was going for.&lt;/p&gt;&#xA;&lt;p&gt;Still learning to rig and animate the model, more images/videos to come! Also looking to paint the model and make it game ready!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-no-lighting.png&#34; alt=&#34;Full-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-lighting.png&#34; alt=&#34;Full-Demon-Color&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-back.png&#34; alt=&#34;Back-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-head.png&#34; alt=&#34;Head-Demon&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clocky Internship</title>
+      <link>//localhost:64032/portfolio/clocky/</link>
+      <pubDate>Tue, 20 Aug 2024 19:47:09 +0200</pubDate>
+      <guid>//localhost:64032/portfolio/clocky/</guid>
+      <description>&lt;p&gt;Throughout my internship at Clocky I rendered out multiple variations of colors and clock styles to showcase how that clock would look like. In order to accomplish this, I needed to work on improving the realism and quality of my renders. At first it started with a simple camera angle and render of the Clocky. As I improved with my rendering and learning how to utilize software such as Arnold and Hypershade, I was able to constantly improve my render quality. Pair this up with Photoshop I was also able to make slight tweaks and change the background.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clocky Stock Renders</title>
+      <link>//localhost:64032/portfolio/clocky-stock/</link>
+      <pubDate>Tue, 20 Aug 2024 19:47:09 +0200</pubDate>
+      <guid>//localhost:64032/portfolio/clocky-stock/</guid>
+      <description>&lt;p&gt;Using references provided to me, I used a combination of Maya and Photoshop in order to render Clocky in images. The goal was to be as realistic and possible and maintain consistency with both the images as well as the multiple colors. There were 5 main reference images used when creating these images. Some images had a Clocky or prop in it that I needed to remove in order to place the new rendered out Clocky. This led me to learning more in-depth Photoshop in order to make the image ready for the render as well as to blend the render into the image. Some renders also switched to me manipulating the render in a way that gave me a close up image of the Clocky as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demon Sculpt</title>
+      <link>//localhost:64032/portfolio/demon-sculpt/</link>
+      <pubDate>Tue, 09 May 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:64032/portfolio/demon-sculpt/</guid>
+      <description>&lt;p&gt;My first sculpt using Mudbox in tandem with Maya. I created this with the guidance of someone creating their own character. I utilized the core ideas they presented me while adjusting them to fit the image that I was going for.&lt;/p&gt;&#xA;&lt;p&gt;Still learning to rig and animate the model, more images/videos to come! Also looking to paint the model and make it game ready!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-no-lighting.png&#34; alt=&#34;Full-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-lighting.png&#34; alt=&#34;Full-Demon-Color&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-back.png&#34; alt=&#34;Back-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-head.png&#34; alt=&#34;Head-Demon&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

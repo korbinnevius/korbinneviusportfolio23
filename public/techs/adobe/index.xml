@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adobe on Korbin Nevius</title>
+    <link>//localhost:64032/techs/adobe/</link>
+    <description>Recent content in Adobe on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Tue, 11 Oct 2022 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:64032/techs/adobe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portrait</title>
+      <link>//localhost:64032/portfolio/portrait/</link>
+      <pubDate>Tue, 11 Oct 2022 19:47:09 +0200</pubDate>
+      <guid>//localhost:64032/portfolio/portrait/</guid>
+      <description>&lt;p&gt;Above is an illustrated version of my puppy, Mia, made in Adobe Illustrator. As I have been expanding my knowledge in Adobe Products, I have been looking to create electronic art of things in my life I appreciate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JED Logo</title>
+      <link>//localhost:64032/portfolio/jed-logo/</link>
+      <pubDate>Mon, 18 Apr 2022 19:47:09 +0200</pubDate>
+      <guid>//localhost:64032/portfolio/jed-logo/</guid>
+      <description>&lt;p&gt;Utilized a mix of adobe products, Illustrator and Photoshop, to create a design and mock-ups for the JED Organization. Gave me the opportunity to create a new logo for an organization I support for free. I was also able to be exposed to a new use of photoshop, mockups. This allowed me to create professional images utilizing my newly created logo on products such as business cards, a website, etc.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

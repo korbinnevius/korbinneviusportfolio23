@@ -2,138 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PORTFOLIO on Korbin Nevius</title>
-    <link>//localhost:1313/portfolio/</link>
+    <link>//localhost:64032/portfolio/</link>
     <description>Recent content in PORTFOLIO on Korbin Nevius</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
     <lastBuildDate>Sun, 09 Feb 2025 19:47:09 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:64032/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creature Sculpt Mimic</title>
-      <link>//localhost:1313/portfolio/mimic/</link>
+      <link>//localhost:64032/portfolio/mimic/</link>
       <pubDate>Sun, 09 Feb 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/mimic/</guid>
-      <description>&lt;p&gt;My first sculpt using Mudbox in tandem with Maya. I created this with the guidance of someone creating their own character. I utilized the core ideas they presented me while adjusting them to fit the image that I was going for.&lt;/p&gt;&#xA;&lt;p&gt;Still learning to rig and animate the model, more images/videos to come! Also looking to paint the model and make it game ready!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-no-lighting.png&#34; alt=&#34;Full-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-lighting.png&#34; alt=&#34;Full-Demon-Color&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-back.png&#34; alt=&#34;Back-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-head.png&#34; alt=&#34;Head-Demon&#34;&gt;&lt;/p&gt;</description>
+      <guid>//localhost:64032/portfolio/mimic/</guid>
+      <description>&lt;p&gt;Sculpting a mimic creature for a Halloween projection show that took place on the Library at Chatham University. This model was modeled in ZBrush as well as Maya, textured in Substance Painter, and rendered in Marmoset Toolbag 5. This piece was originally rendered in Unreal Engine 5 but was revised in Marmoset. The cloth backdrop was made in marvelous designer.&lt;/p&gt;&#xA;&lt;p&gt;This model was made with the focused intention of rendering but is being worked on on the side to be rigged and animated.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clocky Internship</title>
-      <link>//localhost:1313/portfolio/clocky/</link>
+      <link>//localhost:64032/portfolio/clocky/</link>
       <pubDate>Tue, 20 Aug 2024 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/clocky/</guid>
+      <guid>//localhost:64032/portfolio/clocky/</guid>
       <description>&lt;p&gt;Throughout my internship at Clocky I rendered out multiple variations of colors and clock styles to showcase how that clock would look like. In order to accomplish this, I needed to work on improving the realism and quality of my renders. At first it started with a simple camera angle and render of the Clocky. As I improved with my rendering and learning how to utilize software such as Arnold and Hypershade, I was able to constantly improve my render quality. Pair this up with Photoshop I was also able to make slight tweaks and change the background.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clocky Stock Renders</title>
-      <link>//localhost:1313/portfolio/clocky-stock/</link>
+      <link>//localhost:64032/portfolio/clocky-stock/</link>
       <pubDate>Tue, 20 Aug 2024 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/clocky-stock/</guid>
+      <guid>//localhost:64032/portfolio/clocky-stock/</guid>
       <description>&lt;p&gt;Using references provided to me, I used a combination of Maya and Photoshop in order to render Clocky in images. The goal was to be as realistic and possible and maintain consistency with both the images as well as the multiple colors. There were 5 main reference images used when creating these images. Some images had a Clocky or prop in it that I needed to remove in order to place the new rendered out Clocky. This led me to learning more in-depth Photoshop in order to make the image ready for the render as well as to blend the render into the image. Some renders also switched to me manipulating the render in a way that gave me a close up image of the Clocky as well.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Typography Quote</title>
-      <link>//localhost:1313/portfolio/typography-quote/</link>
-      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/typography-quote/</guid>
-      <description>&lt;p&gt;Typography project where we picked a quote said by an artist and I went with Jon Burgerman&amp;rsquo;s quote &amp;ldquo;You&amp;rsquo;re an artist not a style. You can change, You can do different things.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The other two posters that I made for the quote poster were:&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/typography-quote/nevius-quotes-portrait-01.png&#34; alt=&#34;portrait&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/typography-quote/nevius-quotes-portrait-03.png&#34; alt=&#34;Butterfly&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The portrait was inspired through use of a portrait picture. The poster with butterflies coming out of the hand was inspired by the idea of showing change through yourself by flying away. Similar to the idea of caterpillars growing wings then flying away.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Typography Pamphlet</title>
-      <link>//localhost:1313/portfolio/typography-pamphlet/</link>
-      <pubDate>Wed, 15 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/typography-pamphlet/</guid>
-      <description>&lt;p&gt;Typography project where we picked a typographer and made a pamphlet using their type and including a brief description of them.&lt;/p&gt;&#xA;&lt;p&gt;The design of the final poster was inspired by Neville Brody&amp;rsquo;s book &lt;em&gt;The Graphic Language of Neville Brody 3&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The other two posters that I made for Neville Brody were:&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/typography-pamphlet/nevius-three-merge-02.png&#34; alt=&#34;ff Tyson&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/typography-pamphlet/nevius-three-merge-03.png&#34; alt=&#34;Dirty One&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The ff Tyson poster was inspired by the fight poster Brody designed for Mike Tyson&amp;rsquo;s matches. The poster using the Dirty One Font was inspired by the graphic Brody made for Coca-Cola.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>The Rest of Us</title>
-      <link>//localhost:1313/portfolio/the-rest-of-us/</link>
+      <link>//localhost:64032/portfolio/the-rest-of-us/</link>
       <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/the-rest-of-us/</guid>
+      <guid>//localhost:64032/portfolio/the-rest-of-us/</guid>
       <description>&lt;h4 id=&#34;korbin-nevius-evan-alexander-malik-george-ethan-derstine-sam-caloiero&#34;&gt;Korbin Nevius, Evan Alexander, Malik George, Ethan Derstine, Sam Caloiero&lt;/h4&gt;&#xA;&lt;h5 id=&#34;imm-406-prototyping-for-advanced-systems&#34;&gt;IMM 406 Prototyping For Advanced Systems&lt;/h5&gt;&#xA;&lt;h5 id=&#34;fall-23&#34;&gt;Fall 23&lt;/h5&gt;&#xA;&lt;h5 id=&#34;prototype-2&#34;&gt;Prototype 2&lt;/h5&gt;&#xA;&lt;p&gt;In this sci-fi styled project the player shoots a ball down a rotating tech tube that has spinning bricks. Utilizing hand tracking through the Ultra Leap, the player moves their hand to destroy the bricks. When the player destroys the bricks, more spawn in for the player to face and continuously loops until the player loses.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sci-Fi Render</title>
-      <link>//localhost:1313/portfolio/sci-fi-render/</link>
+      <link>//localhost:64032/portfolio/sci-fi-render/</link>
       <pubDate>Thu, 09 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/sci-fi-render/</guid>
+      <guid>//localhost:64032/portfolio/sci-fi-render/</guid>
       <description>&lt;p&gt;First project that I rendered in Houdini. I made the model in Blender with the &lt;a href=&#34;https://blenderguppy.gumroad.com/l/randomflow&#34;&gt;RandomFlow&lt;/a&gt; add-on by Blender Guppy. I then transitioned the model into Houdini for fixing the UVs. After, I transitioned to Substance Painter in order to texture everything and then finally moving back to Houdini to render in Solaris.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Demon Sculpt</title>
-      <link>//localhost:1313/portfolio/demon-sculpt/</link>
+      <link>//localhost:64032/portfolio/demon-sculpt/</link>
       <pubDate>Tue, 09 May 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/demon-sculpt/</guid>
-      <description>&lt;p&gt;My first sculpt using Mudbox in tandem with Maya. I created this with the guidance of someone creating their own character. I utilized the core ideas they presented me while adjusting them to fit the image that I was going for.&lt;/p&gt;&#xA;&lt;p&gt;Still learning to rig and animate the model, more images/videos to come! Also looking to paint the model and make it game ready!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-no-lighting.png&#34; alt=&#34;Full-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-lighting.png&#34; alt=&#34;Full-Demon-Color&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-back.png&#34; alt=&#34;Back-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-head.png&#34; alt=&#34;Head-Demon&#34;&gt;&lt;/p&gt;</description>
+      <guid>//localhost:64032/portfolio/demon-sculpt/</guid>
+      <description>&lt;p&gt;My first sculpt using Mudbox in tandem with Maya. I created this with the guidance of someone creating their own character. I utilized the core ideas they presented me while adjusting them to fit the image that I was going for.&lt;/p&gt;&#xA;&lt;p&gt;Still learning to rig and animate the model, more images/videos to come! Also looking to paint the model and make it game ready!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-no-lighting.png&#34; alt=&#34;Full-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-lighting.png&#34; alt=&#34;Full-Demon-Color&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-back.png&#34; alt=&#34;Back-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/demon-sculpt/demon-head.png&#34; alt=&#34;Head-Demon&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starlight Music Video</title>
-      <link>//localhost:1313/portfolio/music-video/</link>
+      <link>//localhost:64032/portfolio/music-video/</link>
       <pubDate>Sat, 15 Apr 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/music-video/</guid>
-      <description>&lt;p&gt;Song: &lt;em&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ipOAfI-IAMo&#34;&gt;Starlight&lt;/a&gt;&lt;/em&gt; by Rogue.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//localhost:1313/images/portfolio/music-video/nevius-starlight-02.mp4&#34;&gt;Music Video&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Having complications adding the final video&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Through this project I am learning to make a visual music video in Unity by utilizing the HDRP scene template. Through this project I have learned to utilize the Cinemachine camera system, unity recorder, timeline, and Premier to develop a new workflow designed for video editing.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project is to develop a music video that tells a story using a song of my choice and the Unity software. I learned about basic video editing in Adobe Premier as well as the &lt;a href=&#34;https://github.com/keijiro/LaspVfx&#34;&gt;Lasp-VFX&lt;/a&gt; tool by Keijiro. Early design was through multiple storyboards to block out the general ideas that wanted to act on.&lt;/p&gt;</description>
+      <guid>//localhost:64032/portfolio/music-video/</guid>
+      <description>&lt;p&gt;Song: &lt;em&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ipOAfI-IAMo&#34;&gt;Starlight&lt;/a&gt;&lt;/em&gt; by Rogue.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//localhost:64032/images/portfolio/music-video/nevius-starlight-02.mp4&#34;&gt;Music Video&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Having complications adding the final video&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Through this project I am learning to make a visual music video in Unity by utilizing the HDRP scene template. Through this project I have learned to utilize the Cinemachine camera system, unity recorder, timeline, and Premier to develop a new workflow designed for video editing.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project is to develop a music video that tells a story using a song of my choice and the Unity software. I learned about basic video editing in Adobe Premier as well as the &lt;a href=&#34;https://github.com/keijiro/LaspVfx&#34;&gt;Lasp-VFX&lt;/a&gt; tool by Keijiro. Early design was through multiple storyboards to block out the general ideas that wanted to act on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Root Gundam</title>
-      <link>//localhost:1313/portfolio/root-gundam/</link>
+      <link>//localhost:64032/portfolio/root-gundam/</link>
       <pubDate>Sun, 05 Feb 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/root-gundam/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/root-gundam/beating-root-gundam.gif&#34; alt=&#34;Root Gundam Gameplay&#34;&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/korbinnevius/RootGundamGGJ&#34;&gt;Repository for Unity Project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Inspired by the prompt of &lt;em&gt;Roots&lt;/em&gt; for the Global Game Jam 2023 and the shared desire of making a bullet hell type game with my group, we went on to create Root Gundam.&lt;/p&gt;&#xA;&lt;p&gt;This is a game where you are the embodiment of technology and your mission is to eliminate the last pillar of nature.&lt;/p&gt;&#xA;&lt;p&gt;With the help of Lane Macy and Ethan Derstine we were able to create this concept of a game where you dash around avoiding vines (projectiles) while shooting at the boss, Mr.T.&lt;/p&gt;</description>
+      <guid>//localhost:64032/portfolio/root-gundam/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:64032/images/portfolio/root-gundam/beating-root-gundam.gif&#34; alt=&#34;Root Gundam Gameplay&#34;&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/korbinnevius/RootGundamGGJ&#34;&gt;Repository for Unity Project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Inspired by the prompt of &lt;em&gt;Roots&lt;/em&gt; for the Global Game Jam 2023 and the shared desire of making a bullet hell type game with my group, we went on to create Root Gundam.&lt;/p&gt;&#xA;&lt;p&gt;This is a game where you are the embodiment of technology and your mission is to eliminate the last pillar of nature.&lt;/p&gt;&#xA;&lt;p&gt;With the help of Lane Macy and Ethan Derstine we were able to create this concept of a game where you dash around avoiding vines (projectiles) while shooting at the boss, Mr.T.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Step Away</title>
-      <link>//localhost:1313/portfolio/step-away/</link>
+      <link>//localhost:64032/portfolio/step-away/</link>
       <pubDate>Thu, 08 Dec 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/step-away/</guid>
+      <guid>//localhost:64032/portfolio/step-away/</guid>
       <description>&lt;p&gt;Inspired by the idea of wanting to get away from all of the stress and responsibilities of your daily life, Step-Away was idea me and my group decided on for our final project of one of our Immersive Media (IMM) class. I worked with Lane Macy and Malik George who made the light adjuster and radio respectively.&lt;/p&gt;&#xA;&lt;p&gt;This is a collaborative environment where you play around and solve a puzzle cube located on the table in front of you while being able to adjust the lighting and music of the scene.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Nodevember - Asteroid Village</title>
-      <link>//localhost:1313/portfolio/nodevember-asteroid-village/</link>
-      <pubDate>Tue, 29 Nov 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/nodevember-asteroid-village/</guid>
-      <description>&lt;p&gt;Utilizing the Nodevember prompt of Asteroid Village, I was able to use the accumulation of skills throughout the past month and the help of Erindale (City) to create this render.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Nodevember - Oceanic Wonder</title>
-      <link>//localhost:1313/portfolio/nodevember-jellyfish/</link>
+      <link>//localhost:64032/portfolio/nodevember-jellyfish/</link>
       <pubDate>Sat, 05 Nov 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/nodevember-jellyfish/</guid>
-      <description>&lt;p&gt;Utilizing the Nodevember prompt of Oceanic Wonder and the help of a community tutorial, I was able to create this group jellyfish render.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//localhost:1313/korbinneviusportfolio23/images/portfolio/nodevember-jellyfish/Jellyfish.mp4&#34;&gt;Jellyfish Animation&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Portrait</title>
-      <link>//localhost:1313/portfolio/portrait/</link>
-      <pubDate>Tue, 11 Oct 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/portrait/</guid>
-      <description>&lt;p&gt;Above is an illustrated version of my puppy, Mia, made in Adobe Illustrator. As I have been expanding my knowledge in Adobe Products, I have been looking to create electronic art of things in my life I appreciate.&lt;/p&gt;</description>
+      <guid>//localhost:64032/portfolio/nodevember-jellyfish/</guid>
+      <description>&lt;p&gt;Utilizing the Nodevember prompt of Oceanic Wonder and the help of a community tutorial, I was able to create this group jellyfish render.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//localhost:64032/korbinneviusportfolio23/images/portfolio/nodevember-jellyfish/Jellyfish.mp4&#34;&gt;Jellyfish Animation&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Experiencing Prehistory Through Virtual Reality</title>
-      <link>//localhost:1313/portfolio/fossil-project/</link>
+      <link>//localhost:64032/portfolio/fossil-project/</link>
       <pubDate>Fri, 24 Jun 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/fossil-project/</guid>
+      <guid>//localhost:64032/portfolio/fossil-project/</guid>
       <description>&lt;p&gt;Through this project we are using virtual reality technologies to deliver experiences where Chatham students can interact “directly” with these extremely rare and typically inaccessible discoveries.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project is to bring this experience into a classroom setting for students to experience what a fossil site would like. Through comparing individual close up, high resolution models, to where they would be located in the site, you can learn more details than you woulds in a picture. You can also manipulate the fossil site itself with both joysticks and the levers on the table.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apartment Flower</title>
-      <link>//localhost:1313/portfolio/apartment-flower/</link>
+      <link>//localhost:64032/portfolio/apartment-flower/</link>
       <pubDate>Thu, 09 Jun 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/apartment-flower/</guid>
+      <guid>//localhost:64032/portfolio/apartment-flower/</guid>
       <description>&lt;p&gt;My first big Blender project where I created everything on my own. I followed Ian Huberts lazy tutorial (tutorial) for the quick city and I used the magnolia flower I made while learning about UV mapping from another tutorial (tutorial).&lt;/p&gt;&#xA;&lt;p&gt;My favorite part of the tutorial is how the flower sits in the glass vase filled with water. Some cools elements of the project is that an image of the moon provided by NASA is UV mapped to the moon and I have multiple light sources reflecting off the windows.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>JED Logo</title>
-      <link>//localhost:1313/portfolio/jed-logo/</link>
-      <pubDate>Mon, 18 Apr 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/jed-logo/</guid>
-      <description>&lt;p&gt;Utilized a mix of adobe products, Illustrator and Photoshop, to create a design and mock-ups for the JED Organization. Gave me the opportunity to create a new logo for an organization I support for free. I was also able to be exposed to a new use of photoshop, mockups. This allowed me to create professional images utilizing my newly created logo on products such as business cards, a website, etc.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Looking Glass City Generation</title>
-      <link>//localhost:1313/portfolio/looking-glass/</link>
+      <link>//localhost:64032/portfolio/looking-glass/</link>
       <pubDate>Sun, 20 Feb 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/looking-glass/</guid>
-      <description>&lt;p&gt;Utilizing the tangram add-on and looking glass device as well as software, I was able to create a project where a city would generate and be displayed on the Looking Glass.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/looking-glass/rotate-view.gif&#34; alt=&#34;City Display&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The tangram add-on provides you an API key to generate map data based on the coordinates given to it. This includes data such as bodies of water, land, and buildings. The generated objects are fully customizable in terms of materials.&lt;/p&gt;</description>
+      <guid>//localhost:64032/portfolio/looking-glass/</guid>
+      <description>&lt;p&gt;Utilizing the tangram add-on and looking glass device as well as software, I was able to create a project where a city would generate and be displayed on the Looking Glass.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:64032/images/portfolio/looking-glass/rotate-view.gif&#34; alt=&#34;City Display&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The tangram add-on provides you an API key to generate map data based on the coordinates given to it. This includes data such as bodies of water, land, and buildings. The generated objects are fully customizable in terms of materials.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

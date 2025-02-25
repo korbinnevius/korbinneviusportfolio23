@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Houdini on Korbin Nevius</title>
+    <link>//localhost:64032/techs/houdini/</link>
+    <description>Recent content in Houdini on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Fri, 01 Dec 2023 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:64032/techs/houdini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typography Quote</title>
+      <link>//localhost:64032/portfolio/typography-quote/</link>
+      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:64032/portfolio/typography-quote/</guid>
+      <description>&lt;p&gt;Typography project where we picked a quote said by an artist and I went with Jon Burgerman&amp;rsquo;s quote &amp;ldquo;You&amp;rsquo;re an artist not a style. You can change, You can do different things.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The other two posters that I made for the quote poster were:&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/typography-quote/nevius-quotes-portrait-01.png&#34; alt=&#34;portrait&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:64032/images/portfolio/typography-quote/nevius-quotes-portrait-03.png&#34; alt=&#34;Butterfly&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The portrait was inspired through use of a portrait picture. The poster with butterflies coming out of the hand was inspired by the idea of showing change through yourself by flying away. Similar to the idea of caterpillars growing wings then flying away.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Rest of Us</title>
+      <link>//localhost:64032/portfolio/the-rest-of-us/</link>
+      <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:64032/portfolio/the-rest-of-us/</guid>
+      <description>&lt;h4 id=&#34;korbin-nevius-evan-alexander-malik-george-ethan-derstine-sam-caloiero&#34;&gt;Korbin Nevius, Evan Alexander, Malik George, Ethan Derstine, Sam Caloiero&lt;/h4&gt;&#xA;&lt;h5 id=&#34;imm-406-prototyping-for-advanced-systems&#34;&gt;IMM 406 Prototyping For Advanced Systems&lt;/h5&gt;&#xA;&lt;h5 id=&#34;fall-23&#34;&gt;Fall 23&lt;/h5&gt;&#xA;&lt;h5 id=&#34;prototype-2&#34;&gt;Prototype 2&lt;/h5&gt;&#xA;&lt;p&gt;In this sci-fi styled project the player shoots a ball down a rotating tech tube that has spinning bricks. Utilizing hand tracking through the Ultra Leap, the player moves their hand to destroy the bricks. When the player destroys the bricks, more spawn in for the player to face and continuously loops until the player loses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sci-Fi Render</title>
+      <link>//localhost:64032/portfolio/sci-fi-render/</link>
+      <pubDate>Thu, 09 Nov 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:64032/portfolio/sci-fi-render/</guid>
+      <description>&lt;p&gt;First project that I rendered in Houdini. I made the model in Blender with the &lt;a href=&#34;https://blenderguppy.gumroad.com/l/randomflow&#34;&gt;RandomFlow&lt;/a&gt; add-on by Blender Guppy. I then transitioned the model into Houdini for fixing the UVs. After, I transitioned to Substance Painter in order to texture everything and then finally moving back to Houdini to render in Solaris.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
