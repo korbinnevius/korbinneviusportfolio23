@@ -7,15 +7,8 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 19:47:09 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Creature Sculpt Mimic</title>
-      <link>//localhost:1313/portfolio/mimic/</link>
-      <pubDate>Sun, 09 Feb 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/mimic/</guid>
-      <description>&lt;p&gt;A mimic sculpt in Zbrush that was made for a Halloween projection show on the the library at Chatham University. The primary purpose of this model is to look good when rendered. This was originally rendered in Unreal Engine 5 but was revised and re-rendered in Marmoset Toolbag 5. The backdrop was also made in marvelous designer.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/mimic/mimic_ao.jpg&#34; alt=&#34;Mimic&#34;&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Clocky Internship</title>
       <link>//localhost:1313/portfolio/clocky/</link>
