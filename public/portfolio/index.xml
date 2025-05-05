@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 19:47:09 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Character Sculpt Dragonslayer</title>
+      <link>//localhost:1313/portfolio/dragonslayer/</link>
+      <pubDate>Fri, 18 Apr 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/dragonslayer/</guid>
+      <description>&lt;p&gt;This was my 2025 capstone project at Chatham University.&lt;/p&gt;&#xA;&lt;p&gt;In this project my goal was to learn the workflows for creating a character covered in armor and implementing them into a game engine, in this case Unreal Engine 5.&lt;/p&gt;&#xA;&lt;p&gt;I was able to be exposed to and learn about hard surface sculpting within ZBrush, rigging in Maya, rendering within Marmoset Toolbag 5, as well as&#xA;Unreal Engine tools for animation retargetting.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Creature Sculpt Mimic</title>
       <link>//localhost:1313/portfolio/mimic/</link>

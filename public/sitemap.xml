@@ -152,26 +152,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/techs/lasp-vfx/</loc>
-    <lastmod>2023-04-15T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/techs/make-human/</loc>
-    <lastmod>2023-04-15T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/techs/premier/</loc>
-    <lastmod>2023-04-15T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/portfolio/music-video/</loc>
-    <lastmod>2023-04-15T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>//localhost:1313/techs/a-sprite/</loc>
     <lastmod>2023-02-05T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>

@@ -17,13 +17,6 @@
       <description>&lt;h4 id=&#34;korbin-nevius-evan-alexander-malik-george-ethan-derstine-sam-caloiero&#34;&gt;Korbin Nevius, Evan Alexander, Malik George, Ethan Derstine, Sam Caloiero&lt;/h4&gt;&#xA;&lt;h5 id=&#34;imm-406-prototyping-for-advanced-systems&#34;&gt;IMM 406 Prototyping For Advanced Systems&lt;/h5&gt;&#xA;&lt;h5 id=&#34;fall-23&#34;&gt;Fall 23&lt;/h5&gt;&#xA;&lt;h5 id=&#34;prototype-2&#34;&gt;Prototype 2&lt;/h5&gt;&#xA;&lt;p&gt;In this sci-fi styled project the player shoots a ball down a rotating tech tube that has spinning bricks. Utilizing hand tracking through the Ultra Leap, the player moves their hand to destroy the bricks. When the player destroys the bricks, more spawn in for the player to face and continuously loops until the player loses.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Starlight Music Video</title>
-      <link>//localhost:1313/portfolio/music-video/</link>
-      <pubDate>Sat, 15 Apr 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/music-video/</guid>
-      <description>&lt;p&gt;Song: &lt;em&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ipOAfI-IAMo&#34;&gt;Starlight&lt;/a&gt;&lt;/em&gt; by Rogue.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//localhost:1313/images/portfolio/music-video/nevius-starlight-02.mp4&#34;&gt;Music Video&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Having complications adding the final video&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Through this project I am learning to make a visual music video in Unity by utilizing the HDRP scene template. Through this project I have learned to utilize the Cinemachine camera system, unity recorder, timeline, and Premier to develop a new workflow designed for video editing.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project is to develop a music video that tells a story using a song of my choice and the Unity software. I learned about basic video editing in Adobe Premier as well as the &lt;a href=&#34;https://github.com/keijiro/LaspVfx&#34;&gt;Lasp-VFX&lt;/a&gt; tool by Keijiro. Early design was through multiple storyboards to block out the general ideas that wanted to act on.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Root Gundam</title>
       <link>//localhost:1313/portfolio/root-gundam/</link>
       <pubDate>Sun, 05 Feb 2023 19:47:09 +0200</pubDate>
