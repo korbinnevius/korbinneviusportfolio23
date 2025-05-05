@@ -2,57 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/portfolio/mimic/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
+    <loc>//localhost:1313/portfolio/dragonslayer/</loc>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/designs/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/marmoset-toolbag/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/marvelous-designer/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/maya/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/portfolio/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/substance-painter/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/zbrush/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/designs/zbrush/</loc>
+    <lastmod>2025-04-18T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/portfolio/mimic/</loc>
     <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
