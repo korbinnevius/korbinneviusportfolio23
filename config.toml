@@ -80,6 +80,13 @@ pygmentsCodeFences=true
   url = "/resume/"
   weight = -100
 
+[[menu.main]]
+  identifier = "artstation"
+  name = "ArtStation"
+  title = "ArtStation"
+  url = "https://meistermann.artstation.com/"
+  weight = -100
+
 #[[menu.main]]
 #  identifier = "featured"
 #  name = "Featured"
