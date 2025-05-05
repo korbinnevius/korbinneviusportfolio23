@@ -44,7 +44,7 @@ pygmentsCodeFences=true
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/images/headshot.png" # - default "/images/edna-west.jpg"
 [params.assets]
-  favicon = "favicon.svg"
+  favicon = "favicon.png"
   customCSS = ""
 
 [params.social]
