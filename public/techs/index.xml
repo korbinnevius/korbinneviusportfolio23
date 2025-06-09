@@ -59,6 +59,27 @@
       <description></description>
     </item>
     <item>
+      <title>Adobe Illustrator</title>
+      <link>//localhost:1313/techs/adobe-illustrator/</link>
+      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/adobe-illustrator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adobe Photoshop</title>
+      <link>//localhost:1313/techs/adobe-photoshop/</link>
+      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/adobe-photoshop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Houdini</title>
+      <link>//localhost:1313/techs/houdini/</link>
+      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/houdini/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Blender</title>
       <link>//localhost:1313/techs/blender/</link>
       <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
@@ -70,13 +91,6 @@
       <link>//localhost:1313/techs/c-sharp/</link>
       <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
       <guid>//localhost:1313/techs/c-sharp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Houdini</title>
-      <link>//localhost:1313/techs/houdini/</link>
-      <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/techs/houdini/</guid>
       <description></description>
     </item>
     <item>
@@ -112,6 +126,13 @@
       <link>//localhost:1313/techs/a-sprite/</link>
       <pubDate>Sun, 05 Feb 2023 19:47:09 +0200</pubDate>
       <guid>//localhost:1313/techs/a-sprite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adobe</title>
+      <link>//localhost:1313/techs/adobe/</link>
+      <pubDate>Tue, 11 Oct 2022 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/adobe/</guid>
       <description></description>
     </item>
     <item>

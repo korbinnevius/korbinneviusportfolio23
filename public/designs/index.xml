@@ -24,6 +24,13 @@
       <description></description>
     </item>
     <item>
+      <title>Adobe Creative Suite</title>
+      <link>//localhost:1313/designs/adobe-creative-suite/</link>
+      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/designs/adobe-creative-suite/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Houdini</title>
       <link>//localhost:1313/designs/houdini/</link>
       <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
@@ -49,6 +56,13 @@
       <link>//localhost:1313/designs/mudbox/</link>
       <pubDate>Tue, 09 May 2023 19:47:09 +0200</pubDate>
       <guid>//localhost:1313/designs/mudbox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Illustrator</title>
+      <link>//localhost:1313/designs/illustrator/</link>
+      <pubDate>Tue, 11 Oct 2022 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/designs/illustrator/</guid>
       <description></description>
     </item>
   </channel>

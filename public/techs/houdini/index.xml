@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
-    <lastBuildDate>Tue, 14 Nov 2023 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 19:47:09 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/techs/houdini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typography Quote</title>
+      <link>//localhost:1313/portfolio/typography-quote/</link>
+      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/typography-quote/</guid>
+      <description>&lt;p&gt;Typography project where we picked a quote said by an artist and I went with Jon Burgerman&amp;rsquo;s quote &amp;ldquo;You&amp;rsquo;re an artist not a style. You can change, You can do different things.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The other two posters that I made for the quote poster were:&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/typography-quote/nevius-quotes-portrait-01.png&#34; alt=&#34;portrait&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/typography-quote/nevius-quotes-portrait-03.png&#34; alt=&#34;Butterfly&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The portrait was inspired through use of a portrait picture. The poster with butterflies coming out of the hand was inspired by the idea of showing change through yourself by flying away. Similar to the idea of caterpillars growing wings then flying away.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Rest of Us</title>
       <link>//localhost:1313/portfolio/the-rest-of-us/</link>
