@@ -3,7 +3,7 @@ draft: false
 title: Janja Editorial
 description: Editorial edit for climber Janja Garnbret
 date: "2024-11-18T19:47:09+02:00"
-jobDate: 2022
+jobDate: 2024
 work: [design, editorial]
 techs: [Adobe]
 designs: [Illustrator]
