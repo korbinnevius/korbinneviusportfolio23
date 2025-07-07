@@ -17,6 +17,20 @@
       <description></description>
     </item>
     <item>
+      <title>Illustrator</title>
+      <link>//localhost:1313/designs/illustrator/</link>
+      <pubDate>Tue, 18 Feb 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/designs/illustrator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photoshop</title>
+      <link>//localhost:1313/designs/photoshop/</link>
+      <pubDate>Tue, 18 Feb 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/designs/photoshop/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Maya</title>
       <link>//localhost:1313/designs/maya/</link>
       <pubDate>Tue, 20 Aug 2024 19:47:09 +0200</pubDate>
@@ -56,13 +70,6 @@
       <link>//localhost:1313/designs/mudbox/</link>
       <pubDate>Tue, 09 May 2023 19:47:09 +0200</pubDate>
       <guid>//localhost:1313/designs/mudbox/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Illustrator</title>
-      <link>//localhost:1313/designs/illustrator/</link>
-      <pubDate>Tue, 11 Oct 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/designs/illustrator/</guid>
       <description></description>
     </item>
   </channel>

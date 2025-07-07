@@ -4,7 +4,7 @@ description: Hey, I'm Korbin Nevius
 images: ["/images/sample.jpg"]
 ---
 
-Korbin Nevius (he/him) recently graduated from Chatham University with a Bachelors in Immersive Media and a minor in Graphic Design. Korbin works with Game Design Engines (Unreal Engine and Unity) and 3D software’s (ZBrush and Maya) to create immersive experiences through Virtual Reality (VR), Augmented Reality (AR).
+Korbin Nevius (he/him) is a Chatham University graduate with a Bachelors in Immersive Media and a minor in Media Arts: Graphic Design. Korbin works with Game Design Engines (Unreal Engine and Unity) and 3D software’s (ZBrush, Maya, etc.) to create immersive experiences through Virtual Reality (VR), Augmented Reality (AR), and unique 3D models for games and rendering.
 
 Korbin is currently focused on character and prop sculpting but also uses emerging technologies and 3D software for the creation of logos and other forms of 3D art. His interests include the exploration of how to use art as a medium to share a connection of creativity with other media artists and spread his ideas through applications such as games, 3D museums, etc. He hopes to deepen his understanding of emerging medias and is excited about the future possibilities out there.
 
