@@ -14,6 +14,8 @@ In Fall of 2023, Evan and I were tasked with creating a magic mirror that could 
 
 This project utilized the RealSense and Touch Designer to gather depth data and then use that data to create a simulation within the screen. The actual installation was fairly simple. 3 TVs in a corner and a mounted RealSense behind all of the TVs to get a good angle. We were originally going to use a projector since that seemed more fun but because we couldn't find a good work around for the person's shadows disrupting the projection, we pivoted to TVs. 
 
+Evan can be found at [Evan Alexander](https://www.linkedin.com/in/evan-alexander-4429532b1/)  
+
 ![korbinevan2](/images/portfolio/magic-mirror/korbinevan2.jpg)  
 ![korbinevan3](/images/portfolio/magic-mirror/korbinevan3.jpg)  
 ![korbinevan4](/images/portfolio/magic-mirror/korbinevan4.jpg)  
