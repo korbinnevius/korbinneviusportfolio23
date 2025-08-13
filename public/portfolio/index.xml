@@ -66,6 +66,13 @@
       <description>&lt;p&gt;Using references provided to me, I used a combination of Maya and Photoshop in order to render Clocky in images. The goal was to be as realistic and possible and maintain consistency with both the images as well as the multiple colors. There were 5 main reference images used when creating these images. Some images had a Clocky or prop in it that I needed to remove in order to place the new rendered out Clocky. This led me to learning more in-depth Photoshop in order to make the image ready for the render as well as to blend the render into the image. Some renders also switched to me manipulating the render in a way that gave me a close up image of the Clocky as well.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Live to Steal</title>
+      <link>//localhost:1313/portfolio/live-to-steal/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/live-to-steal/</guid>
+      <description>&lt;p&gt;An AR project on the Tilt5 that utilizes a second player using both a map and cameras for assistance on robbing a bank. This experience is called Live to Steal.&lt;/p&gt;&#xA;&lt;p&gt;One person (robber) is using the Tilt5, a pair of AR glasses, to infiltrate a bank. The robber has a limited field of view around themonly allowing them to see so far. So, they need to navigate to the security room with the help of the &amp;ldquo;person in the chair.&amp;rdquo; Once they get to the security room, they hack the cameras allowing for the other player to watch the gaurd movements and helping the robber navigate to both a key and vault.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Typography Quote</title>
       <link>//localhost:1313/portfolio/typography-quote/</link>
       <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>

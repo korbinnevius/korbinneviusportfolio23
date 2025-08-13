@@ -1,23 +1,20 @@
 ---
-draft: true
-title: Looking Glass City Generation
-description: Looking Glass City Generation
-date: "2022-02-20T19:47:09+02:00"
-jobDate: 2022
+title: Live to Steal
+description: AR and PC Game
+date: "2024-02-20T19:47:09+02:00"
+jobDate: 2023
 work: [design, game development]
-techs: [Looking Glass, C-Sharp, Unity]
-designs: [Unity3D]
-thumbnail: looking-glass/single-city.png
+techs: [Tilt5, C-Sharp, Unity]
+designs: [Unity3D, Tilt5]
+thumbnail: live-to-steal/playtest.jpg
 projectUrl: 
 ---
 
-Utilizing the tangram add-on and looking glass device as well as software, I was able to create a project where a city would generate and be displayed on the Looking Glass.  
+An AR project on the Tilt5 that utilizes a second player using both a map and cameras for assistance on robbing a bank. This experience is called Live to Steal. 
 
-![City Display](/images/portfolio/looking-glass/rotate-view.gif)
+One person (robber) is using the Tilt5, a pair of AR glasses, to infiltrate a bank. The robber has a limited field of view around themonly allowing them to see so far. So, they need to navigate to the security room with the help of the "person in the chair." Once they get to the security room, they hack the cameras allowing for the other player to watch the gaurd movements and helping the robber navigate to both a key and vault. 
 
-The tangram add-on provides you an API key to generate map data based on the coordinates given to it. This includes data such as bodies of water, land, and buildings. The generated objects are fully customizable in terms of materials.  
+![Bank Layout](/images/portfolio/live-to-steal/bank-layout.png)  
+![FOV](/images/portfolio/live-to-steal/fov.png)  
+![Cams](/images/portfolio/live-to-steal/cams-on.png)  
 
-Through Unity, you can record a quilt from the game view of the generated product that can then be put onto the Looking Glass and displayed in 3D.
-
-![Hong Kong View](/images/portfolio/looking-glass/hong-kong-view.gif)
-[Quilt Download](/images/portfolio/looking-glass/hong-kong-view.webm)

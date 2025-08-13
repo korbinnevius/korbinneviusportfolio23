@@ -1,5 +1,6 @@
 ---
 title: Magic Mirror
+description: Magic Mirror using Touch Designer
 date: "2025-02-20T19:47:09+02:00"
 jobDate: 2023
 work: [design, motion tracking]
