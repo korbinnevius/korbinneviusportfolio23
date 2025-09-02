@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
-    <lastBuildDate>Tue, 14 Nov 2023 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 19:47:09 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/techs/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live to Steal</title>
+      <link>//localhost:1313/portfolio/live-to-steal/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/live-to-steal/</guid>
+      <description>&lt;p&gt;An AR project on the Tilt5 that utilizes a second player using both a map and cameras for assistance on robbing a bank. This experience is called Live to Steal.&lt;/p&gt;&#xA;&lt;p&gt;One person (robber) is using the Tilt5, a pair of AR glasses, to infiltrate a bank. The robber has a limited field of view around themonly allowing them to see so far. So, they need to navigate to the security room with the help of the &amp;ldquo;person in the chair.&amp;rdquo; Once they get to the security room, they hack the cameras allowing for the other player to watch the gaurd movements and helping the robber navigate to both a key and vault.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Rest of Us</title>
       <link>//localhost:1313/portfolio/the-rest-of-us/</link>
