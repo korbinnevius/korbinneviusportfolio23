@@ -7,7 +7,7 @@ work: [design, 3D modeling]
 techs: [ZBrush, Maya, Marmoset Toolbag, Substance Painter, Marvelous Designer]
 designs: [ZBrush]
 thumbnail: mimic/mimic_base.jpg
-projectUrl: 
+projectUrl: https://shinyy.artstation.com/projects/oJPZvm
 ---
 Sculpting a mimic creature for a Halloween projection show that took place on the Library at Chatham University. This model was modeled in ZBrush as well as Maya, textured in Substance Painter, and rendered in Marmoset Toolbag 5. This piece was originally rendered in Unreal Engine 5 but was revised in Marmoset. The cloth backdrop was made in marvelous designer.  
 

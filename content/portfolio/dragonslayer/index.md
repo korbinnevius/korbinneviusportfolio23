@@ -7,7 +7,7 @@ work: [design, hardsurface, 3D modeling]
 techs: [ZBrush, Maya, Marmoset Toolbag, Substance Painter, Marvelous Designer]
 designs: [ZBrush]
 thumbnail: dragonslayer/headerImage.png
-projectUrl: https://meistermann.artstation.com/projects/2BQ05v 
+projectUrl: https://shinyy.artstation.com/projects/2BQ05v
 ---
 This was my 2025 capstone project at Chatham University.
   
