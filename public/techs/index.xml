@@ -7,13 +7,55 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
-    <lastBuildDate>Fri, 18 Apr 2025 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 19:47:09 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/techs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Houdini</title>
+      <link>//localhost:1313/techs/houdini/</link>
+      <pubDate>Tue, 02 Sep 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/houdini/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Marmoset Toolbag</title>
       <link>//localhost:1313/techs/marmoset-toolbag/</link>
-      <pubDate>Fri, 18 Apr 2025 19:47:09 +0200</pubDate>
+      <pubDate>Tue, 02 Sep 2025 19:47:09 +0200</pubDate>
       <guid>//localhost:1313/techs/marmoset-toolbag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maya</title>
+      <link>//localhost:1313/techs/maya/</link>
+      <pubDate>Tue, 02 Sep 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/maya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RizomUV</title>
+      <link>//localhost:1313/techs/rizomuv/</link>
+      <pubDate>Tue, 02 Sep 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/rizomuv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Substance Painter</title>
+      <link>//localhost:1313/techs/substance-painter/</link>
+      <pubDate>Tue, 02 Sep 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/substance-painter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Topogun</title>
+      <link>//localhost:1313/techs/topogun/</link>
+      <pubDate>Tue, 02 Sep 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/topogun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ZBrush</title>
+      <link>//localhost:1313/techs/zbrush/</link>
+      <pubDate>Tue, 02 Sep 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/techs/zbrush/</guid>
       <description></description>
     </item>
     <item>
@@ -21,34 +63,6 @@
       <link>//localhost:1313/techs/marvelous-designer/</link>
       <pubDate>Fri, 18 Apr 2025 19:47:09 +0200</pubDate>
       <guid>//localhost:1313/techs/marvelous-designer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Maya</title>
-      <link>//localhost:1313/techs/maya/</link>
-      <pubDate>Fri, 18 Apr 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/techs/maya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Substance Painter</title>
-      <link>//localhost:1313/techs/substance-painter/</link>
-      <pubDate>Fri, 18 Apr 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/techs/substance-painter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ZBrush</title>
-      <link>//localhost:1313/techs/zbrush/</link>
-      <pubDate>Fri, 18 Apr 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/techs/zbrush/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Houdini</title>
-      <link>//localhost:1313/techs/houdini/</link>
-      <pubDate>Thu, 20 Mar 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/techs/houdini/</guid>
       <description></description>
     </item>
     <item>
