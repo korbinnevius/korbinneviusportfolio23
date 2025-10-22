@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Nodevember - Oceanic Wonder
 description: Jellyfish
 date: "2022-11-05T19:47:09+02:00"

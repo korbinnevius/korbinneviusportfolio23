@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Demon Sculpt
 description: First Sculpt Using Mudbox and Maya
 date: "2023-05-09T19:47:09+02:00"

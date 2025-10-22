@@ -108,13 +108,6 @@
       <description>&lt;p&gt;First project that I rendered in Houdini. I made the model in Blender with the &lt;a href=&#34;https://blenderguppy.gumroad.com/l/randomflow&#34;&gt;RandomFlow&lt;/a&gt; add-on by Blender Guppy. I then transitioned the model into Houdini for fixing the UVs. After, I transitioned to Substance Painter in order to texture everything and then finally moving back to Houdini to render in Solaris.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/sci-fi/sci-fi-anim.jpg&#34; alt=&#34;counter-lav-full&#34;&gt;&lt;br&gt;&#xA;High resolution still image.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Demon Sculpt</title>
-      <link>//localhost:1313/portfolio/demon-sculpt/</link>
-      <pubDate>Tue, 09 May 2023 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/demon-sculpt/</guid>
-      <description>&lt;p&gt;My first sculpt using Mudbox in tandem with Maya. I created this with the guidance of someone creating their own character. I utilized the core ideas they presented me while adjusting them to fit the image that I was going for.&lt;/p&gt;&#xA;&lt;p&gt;Still learning to rig and animate the model, more images/videos to come! Also looking to paint the model and make it game ready!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-no-lighting.png&#34; alt=&#34;Full-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-lighting.png&#34; alt=&#34;Full-Demon-Color&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-back.png&#34; alt=&#34;Back-Demon&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/portfolio/demon-sculpt/demon-head.png&#34; alt=&#34;Head-Demon&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Root Gundam</title>
       <link>//localhost:1313/portfolio/root-gundam/</link>
       <pubDate>Sun, 05 Feb 2023 19:47:09 +0200</pubDate>
@@ -129,13 +122,6 @@
       <description>&lt;p&gt;Inspired by the idea of wanting to get away from all of the stress and responsibilities of your daily life, Step-Away was idea me and my group decided on for our final project of one of our Immersive Media (IMM) class. I worked with Lane Macy and Malik George who made the light adjuster and radio respectively.&lt;/p&gt;&#xA;&lt;p&gt;This is a collaborative environment where you play around and solve a puzzle cube located on the table in front of you while being able to adjust the lighting and music of the scene.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Nodevember - Oceanic Wonder</title>
-      <link>//localhost:1313/portfolio/nodevember-jellyfish/</link>
-      <pubDate>Sat, 05 Nov 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/nodevember-jellyfish/</guid>
-      <description>&lt;p&gt;Utilizing the Nodevember prompt of Oceanic Wonder and the help of a community tutorial, I was able to create this group jellyfish render.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//localhost:1313/korbinneviusportfolio23/images/portfolio/nodevember-jellyfish/Jellyfish.mp4&#34;&gt;Jellyfish Animation&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Portrait</title>
       <link>//localhost:1313/portfolio/portrait/</link>
       <pubDate>Tue, 11 Oct 2022 19:47:09 +0200</pubDate>
@@ -148,13 +134,6 @@
       <pubDate>Fri, 24 Jun 2022 19:47:09 +0200</pubDate>
       <guid>//localhost:1313/portfolio/fossil-project/</guid>
       <description>&lt;p&gt;Through this project we are using virtual reality technologies to deliver experiences where Chatham students can interact “directly” with these extremely rare and typically inaccessible discoveries.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project is to bring this experience into a classroom setting for students to experience what a fossil site would like. Through comparing individual close up, high resolution models, to where they would be located in the site, you can learn more details than you woulds in a picture. You can also manipulate the fossil site itself with both joysticks and the levers on the table.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apartment Flower</title>
-      <link>//localhost:1313/portfolio/apartment-flower/</link>
-      <pubDate>Thu, 09 Jun 2022 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/apartment-flower/</guid>
-      <description>&lt;p&gt;My first big Blender project where I created everything on my own. I followed Ian Huberts lazy tutorial (tutorial) for the quick city and I used the magnolia flower I made while learning about UV mapping from another tutorial (tutorial).&lt;/p&gt;&#xA;&lt;p&gt;My favorite part of the tutorial is how the flower sits in the glass vase filled with water. Some cools elements of the project is that an image of the moon provided by NASA is UV mapped to the moon and I have multiple light sources reflecting off the windows.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JED Logo</title>
