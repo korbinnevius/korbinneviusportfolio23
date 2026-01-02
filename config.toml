@@ -42,9 +42,9 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '/images/nevius_portfolio-02.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/headshot.png" # - default "/images/edna-west.jpg"
+  logo = "/images/1723849939396.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
-  favicon = "favicon.png"
+  favicon = "favTest.png"
   customCSS = ""
 
 [params.social]

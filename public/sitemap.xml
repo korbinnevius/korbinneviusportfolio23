@@ -77,16 +77,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/designs/houdini/</loc>
-    <lastmod>2025-03-20T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/portfolio/water/</loc>
-    <lastmod>2025-03-20T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>//localhost:1313/portfolio/magic-mirror/</loc>
     <lastmod>2025-02-20T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -124,11 +114,6 @@
   </url><url>
     <loc>//localhost:1313/portfolio/weave/</loc>
     <lastmod>2025-02-18T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/portfolio/mimic/</loc>
-    <lastmod>2025-02-09T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -218,6 +203,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/blender/</loc>
+    <lastmod>2023-11-14T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/designs/houdini/</loc>
     <lastmod>2023-11-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

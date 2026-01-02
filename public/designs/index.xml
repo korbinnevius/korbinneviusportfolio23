@@ -17,13 +17,6 @@
       <description></description>
     </item>
     <item>
-      <title>Houdini</title>
-      <link>//localhost:1313/designs/houdini/</link>
-      <pubDate>Thu, 20 Mar 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/designs/houdini/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>TouchDesigner</title>
       <link>//localhost:1313/designs/touchdesigner/</link>
       <pubDate>Thu, 20 Feb 2025 19:47:09 +0200</pubDate>
@@ -70,6 +63,13 @@
       <link>//localhost:1313/designs/adobe-creative-suite/</link>
       <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
       <guid>//localhost:1313/designs/adobe-creative-suite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Houdini</title>
+      <link>//localhost:1313/designs/houdini/</link>
+      <pubDate>Tue, 14 Nov 2023 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/designs/houdini/</guid>
       <description></description>
     </item>
     <item>

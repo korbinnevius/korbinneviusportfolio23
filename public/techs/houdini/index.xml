@@ -17,13 +17,6 @@
       <description>&lt;p&gt;Following along with the advanced character creation class taught by Ben Erdt, I was able to create this 3D model and render of a alien creature with sci-fi elements. I am very thankful to the knowledge shared through this video and believe I improved in a lot of different areas when it comes to sculpting, texturing, and rendering. I also have some points that I know I need to work on further such as re-topology and more attention to detail in some areas. Now it is time to start a new project with all the skills and insight I learned and see how it turns out!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Water Simulation</title>
-      <link>//localhost:1313/portfolio/water/</link>
-      <pubDate>Thu, 20 Mar 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/portfolio/water/</guid>
-      <description>&lt;p&gt;A water simulation made in Houdini that &amp;ldquo;fills up&amp;rdquo; a 1080 x 1920 display.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Typography Quote</title>
       <link>//localhost:1313/portfolio/typography-quote/</link>
       <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
