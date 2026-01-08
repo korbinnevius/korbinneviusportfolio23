@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Figma on Korbin Nevius</title>
+    <link>//localhost:1313/techs/figma/</link>
+    <description>Recent content in Figma on Korbin Nevius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Thu, 18 Sep 2025 19:47:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/techs/figma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agents of Influence</title>
+      <link>//localhost:1313/portfolio/aoi/</link>
+      <pubDate>Thu, 18 Sep 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/portfolio/aoi/</guid>
+      <description>&lt;p&gt;Utilizing Adobe Illustrator, my goal was to design an editorial spread on a subject of my choosing. This ended up being the climbing Olympics and specifically the climber Janja Garnbret.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/portfolio/janja/nevius_editorial_janja-01.jpg&#34; alt=&#34;left&#34;&gt; &lt;img src=&#34;//localhost:1313/images/portfolio/janja/nevius_editorial_janja-02.jpg&#34; alt=&#34;right&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
