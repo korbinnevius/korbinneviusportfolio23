@@ -1,15 +1,16 @@
 ---
 title: Experiencing Prehistory Through Virtual Reality
 description: Using virtual reality technologies to deliver experiences where Chatham students can interact “directly” with these extremely rare and typically inaccessible discoveries.
-date: "2024-06-24T19:47:09+02:00"
+date: "2025-02-24T19:47:09+02:00"
 jobDate: 2022
 work: [design, game development]
 techs: [Unity, C-Sharp, Blender, Agisoft]
 designs: [Unity3D]
 thumbnail: fossil-project/table-layout.jpg
-projectUrl:
+projectUrl: https://chatham-immersive-media-lab.github.io/fossil-vr/vr-project/
 ---
 Through this project we are using virtual reality technologies to deliver experiences where Chatham students can interact “directly” with these extremely rare and typically inaccessible discoveries.  
+[YouTube Demonstration](https://www.youtube.com/watch?v=tmy_T929tR4)  
 
 The goal of this project is to bring this experience into a classroom setting for students to experience what a fossil site would like. Through comparing individual close up, high resolution models, to where they would be located in the site, you can learn more details than you woulds in a picture.  
 
