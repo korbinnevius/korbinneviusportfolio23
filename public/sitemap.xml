@@ -197,6 +197,21 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>//localhost:1313/designs/houdini/</loc>
+    <lastmod>2024-01-14T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/techs/random-flow/</loc>
+    <lastmod>2024-01-14T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/portfolio/the-rest-of-us/</loc>
+    <lastmod>2024-01-14T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>//localhost:1313/designs/adobe-creative-suite/</loc>
     <lastmod>2023-11-15T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -214,21 +229,6 @@
   </url><url>
     <loc>//localhost:1313/portfolio/typography-pamphlet/</loc>
     <lastmod>2023-11-15T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/designs/houdini/</loc>
-    <lastmod>2023-11-14T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/techs/random-flow/</loc>
-    <lastmod>2023-11-14T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/portfolio/the-rest-of-us/</loc>
-    <lastmod>2023-11-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
