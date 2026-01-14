@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
-    <lastBuildDate>Tue, 02 Sep 2025 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 19:47:09 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/designs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Figma</title>
+      <link>//localhost:1313/designs/figma/</link>
+      <pubDate>Thu, 18 Sep 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/designs/figma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Illustrator</title>
+      <link>//localhost:1313/designs/illustrator/</link>
+      <pubDate>Thu, 18 Sep 2025 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/designs/illustrator/</guid>
+      <description></description>
+    </item>
     <item>
       <title>ZBrush</title>
       <link>//localhost:1313/designs/zbrush/</link>
@@ -24,24 +38,17 @@
       <description></description>
     </item>
     <item>
-      <title>Illustrator</title>
-      <link>//localhost:1313/designs/illustrator/</link>
-      <pubDate>Tue, 18 Feb 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/designs/illustrator/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Photoshop</title>
-      <link>//localhost:1313/designs/photoshop/</link>
-      <pubDate>Tue, 18 Feb 2025 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/designs/photoshop/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Maya</title>
       <link>//localhost:1313/designs/maya/</link>
       <pubDate>Tue, 20 Aug 2024 19:47:09 +0200</pubDate>
       <guid>//localhost:1313/designs/maya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity3D</title>
+      <link>//localhost:1313/designs/unity3d/</link>
+      <pubDate>Mon, 24 Jun 2024 19:47:09 +0200</pubDate>
+      <guid>//localhost:1313/designs/unity3d/</guid>
       <description></description>
     </item>
     <item>
@@ -52,16 +59,9 @@
       <description></description>
     </item>
     <item>
-      <title>Unity3D</title>
-      <link>//localhost:1313/designs/unity3d/</link>
-      <pubDate>Tue, 20 Feb 2024 19:47:09 +0200</pubDate>
-      <guid>//localhost:1313/designs/unity3d/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Adobe Creative Suite</title>
       <link>//localhost:1313/designs/adobe-creative-suite/</link>
-      <pubDate>Fri, 01 Dec 2023 19:47:09 +0200</pubDate>
+      <pubDate>Wed, 15 Nov 2023 19:47:09 +0200</pubDate>
       <guid>//localhost:1313/designs/adobe-creative-suite/</guid>
       <description></description>
     </item>

@@ -1,7 +1,7 @@
 ---
 title: Experiencing Prehistory Through Virtual Reality
 description: Using virtual reality technologies to deliver experiences where Chatham students can interact “directly” with these extremely rare and typically inaccessible discoveries.
-date: "2022-06-24T19:47:09+02:00"
+date: "2024-06-24T19:47:09+02:00"
 jobDate: 2022
 work: [design, game development]
 techs: [Unity, C-Sharp, Blender, Agisoft]
