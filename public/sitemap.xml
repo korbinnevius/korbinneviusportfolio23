@@ -2,7 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/portfolio/aoi/</loc>
+    <lastmod>2025-09-18T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/designs/</loc>
+    <lastmod>2025-09-18T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/designs/figma/</loc>
+    <lastmod>2025-09-18T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/techs/figma/</loc>
+    <lastmod>2025-09-18T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2025-09-18T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/designs/illustrator/</loc>
     <lastmod>2025-09-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -12,12 +37,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/portfolio/adv-char/</loc>
-    <lastmod>2025-09-02T19:47:09+02:00</lastmod>
+    <loc>//localhost:1313/techs/</loc>
+    <lastmod>2025-09-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/designs/</loc>
+    <loc>//localhost:1313/portfolio/adv-char/</loc>
     <lastmod>2025-09-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -43,11 +68,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/substance-painter/</loc>
-    <lastmod>2025-09-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/techs/</loc>
     <lastmod>2025-09-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -98,22 +118,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/adobe/</loc>
-    <lastmod>2025-02-18T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/designs/illustrator/</loc>
-    <lastmod>2025-02-18T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/designs/photoshop/</loc>
-    <lastmod>2025-02-18T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/portfolio/weave/</loc>
-    <lastmod>2025-02-18T19:47:09+02:00</lastmod>
+    <lastmod>2024-11-18T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -147,8 +152,33 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>//localhost:1313/techs/agisoft/</loc>
+    <lastmod>2024-06-24T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/techs/blender/</loc>
+    <lastmod>2024-06-24T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>//localhost:1313/techs/c-sharp/</loc>
-    <lastmod>2024-02-20T19:47:09+02:00</lastmod>
+    <lastmod>2024-06-24T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/portfolio/fossil-project/</loc>
+    <lastmod>2024-06-24T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/techs/unity/</loc>
+    <lastmod>2024-06-24T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/designs/unity3d/</loc>
+    <lastmod>2024-06-24T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -167,58 +197,38 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/techs/unity/</loc>
-    <lastmod>2024-02-20T19:47:09+02:00</lastmod>
+    <loc>//localhost:1313/designs/houdini/</loc>
+    <lastmod>2024-01-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/designs/unity3d/</loc>
-    <lastmod>2024-02-20T19:47:09+02:00</lastmod>
+    <loc>//localhost:1313/techs/random-flow/</loc>
+    <lastmod>2024-01-14T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/portfolio/the-rest-of-us/</loc>
+    <lastmod>2024-01-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/designs/adobe-creative-suite/</loc>
-    <lastmod>2023-12-01T19:47:09+02:00</lastmod>
+    <lastmod>2023-11-15T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/adobe-illustrator/</loc>
-    <lastmod>2023-12-01T19:47:09+02:00</lastmod>
+    <lastmod>2023-11-15T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/techs/adobe-photoshop/</loc>
-    <lastmod>2023-12-01T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/portfolio/typography-quote/</loc>
-    <lastmod>2023-12-01T19:47:09+02:00</lastmod>
+    <lastmod>2023-11-15T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/portfolio/typography-pamphlet/</loc>
     <lastmod>2023-11-15T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/techs/blender/</loc>
-    <lastmod>2023-11-14T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/designs/houdini/</loc>
-    <lastmod>2023-11-14T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/techs/random-flow/</loc>
-    <lastmod>2023-11-14T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/portfolio/the-rest-of-us/</loc>
-    <lastmod>2023-11-14T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -254,16 +264,6 @@
   </url><url>
     <loc>//localhost:1313/portfolio/portrait/</loc>
     <lastmod>2022-10-11T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/techs/agisoft/</loc>
-    <lastmod>2022-06-24T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/portfolio/fossil-project/</loc>
-    <lastmod>2022-06-24T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

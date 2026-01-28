@@ -1,7 +1,7 @@
 ---
 title: The Rest of Us
 description: Prototype 2 for Prototyping for Advanced Systems
-date: "2023-11-14T19:47:09+02:00"
+date: "2024-01-14T19:47:09+02:00"
 jobDate: 2023
 work: [design, game development, asset creation]
 techs: [Blender, C-Sharp, Unity, Houdini, Random Flow]

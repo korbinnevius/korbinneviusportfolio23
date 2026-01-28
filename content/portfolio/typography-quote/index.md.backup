@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Typography Quote
 description: Quote design project for Typography Class
 date: "2023-12-01T19:47:09+02:00"
