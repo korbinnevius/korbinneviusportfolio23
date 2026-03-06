@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>3D</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="../css/custom.css">
+    <link rel="icon" href="../images/favicon.png" type="image/x-icon" />
+
+    <style>
+        .overlay-highlight{
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(188, 87, 255, 0.7); /* Adjust the color and opacity as needed */
+            opacity: 0; /* Initially invisible */
+            transition: opacity 0.3s ease; /* Smooth transition */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .image-name{
+            color: rgba(0, 255, 255, 0.9);
+            font-size: 20px;
+            z-index: 5;
+        }
+
+        .image-link:hover .overlay-highlight {
+            opacity: 1; /* Show the overlay on hover */
+        }
+
+        .image-link {
+            position: relative;
+            display: block;
+            overflow: hidden;
+        }
+
+        .portfolio{
+            flex-grow: 1; /* Fill available space */
+            margin-top: 1em;
+            margin-bottom: 1em;
+            width: 100vw;
+        }
+    </style>
+
+</head>
+<body class="d-flex h-100 text-center">
+<div class="container d-flex w-100 h-100 mx-auto flex-column">
+
+    <header class="mb-auto header glowing-border"
+            style="--border-radius: 0vw 0vw 0vw 0vw; --background-glow-color: rgb(7,7,7); --border-width: 1px;
+            border-left: 0; border-right: 0; border-top: 0;">
+        <div>
+            <h3 class="float-md-start mb-2 flex-wrap:wrap">My Work!</h3>
+            <nav class="masthead justify-content-center float-md-end">
+                <a class="masthead-link fw-bold py-1 px-2" aria-current="page" href="../index.html">Home</a>
+                <a class="masthead-link fw-bold py-1 px-2" href="about.html">About</a>
+                <a class="masthead-link fw-bold py-1 px-2" href="resume.html">Resume</a>
+                <a class="masthead-link fw-bold py-1 px-2 masthead-active" href="3d.html">3D</a>
+                <a class="masthead-link fw-bold py-1 px-2" href="2d.html">2D</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <div class=" portfolio w-100 mx-auto">
+        <div class="grid">
+            <div class="grid-sizer"></div>
+            <div class="grid-item grid-item--width2">
+                <a href="advanced-character.html" class="image-link holo-image">
+                    <img src="../images/portfolio/3d/adv-char/ADV_Char_2k.png" class="card-img-top" role="img" preserveAspectRatio="xMidYMid"/>
+                    <div class="scan-line"></div>
+                    <div class="holo-border"></div>
+                    <div class="overlay-highlight">
+                        <span class="image-name">Advanced Character</span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="grid-item">
+                <a href="dragon-slayer.html" class="image-link holo-image">
+                    <img src="../images/portfolio/3d/dragon-slayer/headerImage.png" class="card-img-top" role="img" preserveAspectRatio="xMidYMid"/>
+                    <div class="scan-line"></div>
+                    <div class="holo-border"></div>
+                    <div class="overlay-highlight">
+                        <span class="image-name">Dragon Slayer</span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="grid-item grid-item--width2">
+                <a href="clocky.html" class="image-link holo-image">
+                    <img src="../images/portfolio/3d/clocky/clocky_render_stock_portfolio.jpg" class="card-img-top" role="img" preserveAspectRatio="xMidYMid"/>
+                    <div class="scan-line"></div>
+                    <div class="holo-border"></div>
+                    <div class="overlay-highlight">
+                        <span class="image-name">Clocky</span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="grid-item">
+                <a href="vortex.html" class="image-link holo-image">
+                    <img src="../images/portfolio/game-design/the-rest-of-us/playing_board.png" class="card-img-top" role="img" preserveAspectRatio="xMidYMid"/>
+                    <div class="scan-line"></div>
+                    <div class="holo-border"></div>
+                    <div class="overlay-highlight">
+                        <span class="image-name">Vortex</span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="grid-item">
+                <a href="fossil.html" class="image-link holo-image">
+                    <img src="../images/portfolio/game-design/fossil/table-layout.jpg" class="card-img-top" role="img" preserveAspectRatio="xMidYMid"/>
+                    <div class="scan-line"></div>
+                    <div class="holo-border"></div>
+                    <div class="overlay-highlight">
+                        <span class="image-name">Fossil Project</span>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+    <footer class="mt-auto p-2 glowing-border"
+            style="--border-radius: 0vw 0vw 0vw 0vw; --background-glow-color: rgb(21,21,21); --border-width: 1px;
+            border-left: 0; border-right: 0; border-bottom:0;
+            ">
+        <nav class="masthead justify-content-center"
+             style="padding-top: 0.75em; padding-bottom: 0.75em;">
+            <a class="masthead-link py-1 px-0" href="https://shinyy.artstation.com/" style="margin-right: 1rem" target="_blank">ArtStation</a>
+            <a class="masthead-link py-1 px-0" href="https://github.com/korbinnevius?tab=repositories" style="margin-right: 1rem" target="_blank">GitHub</a>
+            <a class="masthead-link py-1 px-0" href="https://forms.gle/DMkWmWke1dopJnzD7" style="margin-right: 1rem" target="_blank">Contact</a>
+        </nav>
+    </footer>
+
+</div>
+
+<script src="../js/masonry.pkgd.js"></script>
+<script src="../js/imagesloaded.pkgd.js"></script>
+<script src="../js/masonry-initial.js"></script>
+
+<div class="inner-cursor"></div>
+<div class="outer-cursor"></div>
+<script src="../js/cursor.js"></script>
+
+<script src="../js/transition.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Home</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <link rel="icon" href="images/favicon.png" type="image/x-icon" />
+
+    <style>
+
+        .home-image {
+            position: absolute;
+            bottom: -10%;
+            left: 0;
+            width: 100vw;
+            height: 90%;
+            max-height: 90%;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+            background: url('images/home-image.jpg') no-repeat center center;
+            background-size: cover;
+            opacity: 0.4;
+            -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 40%, black 100%);
+            mask-image: linear-gradient(to bottom, transparent 0%, black 40%, black 100%);
+        }
+
+
+        body{
+            overflow: hidden !important;
+        }
+        html{
+            overflow: hidden !important;
+        }
+
+    </style>
+
+
+
+</head>
+<body class="d-flex h-100 text-center">
+<div class="home-image"></div>
+<div class="container d-flex w-100 h-100 mx-auto flex-column">
+    <header class="mb-auto header glowing-border"
+            style="--border-radius: 0vw 0vw 0vw 0vw; --background-glow-color: rgb(7,7,7); --border-width: 1px;
+            border-left: 0; border-right: 0; border-top: 0;">
+        <div>
+            <h3 class="float-md-start mb-2 flex-wrap:wrap">Hi, I'm Korbin</h3>
+            <nav class="masthead justify-content-center float-md-end">
+                <a class="masthead-link fw-bold py-1 px-2 masthead-active" aria-current="page" href="index.html">Home</a>
+                <a class="masthead-link fw-bold py-1 px-2" href="pages/about.html">About</a>
+                <a class="masthead-link fw-bold py-1 px-2" href="pages/resume.html">Resume</a>
+                <a class="masthead-link fw-bold py-1 px-2" href="pages/3d.html">3D</a>
+                <a class="masthead-link fw-bold py-1 px-2" href="pages/2d.html">2D</a>
+
+            </nav>
+        </div>
+    </header>
+
+    <main class="px-3 text-center"
+          style="padding-top: 6em; padding-bottom: 2em; z-index: 5">
+        <h1 data-scramble="Welcome" data-scramble-duration="1500" data-scramble-glitch="1"></h1>
+        <p class="lead" data-scramble="3D and Graphic Designer looking to tell a story through my designs." data-scramble-duration="2500" data-scramble-delay="1600" data-scramble-glitch="2"></p>
+        <div class="lead">
+            <a href="pages/3d.html" class="masthead-link hover-underline fw-bold px-3" style="font-size: 1.75rem; border-bottom: 2px solid #dde1e5">3D</a>
+            <a href="pages/2d.html" class="masthead-link hover-underline fw-bold px-3" style="font-size: 1.75rem; border-bottom: 2px solid #dde1e5">2D</a>
+        </div>
+    </main>
+
+    <footer class="mt-auto p-2 glowing-border"
+            style="--border-radius: 0vw 0vw 0vw 0vw; --background-glow-color: rgb(21,21,21); --border-width: 1px;
+            border-left: 0; border-right: 0; border-bottom:0;
+            ">
+        <nav class="masthead justify-content-center"
+             style="padding-top: 0.75em; padding-bottom: 0.75em;">
+            <a class="masthead-link py-1 px-0" href="https://shinyy.artstation.com/" style="margin-right: 1rem" target="_blank">ArtStation</a>
+            <a class="masthead-link py-1 px-0" href="https://github.com/korbinnevius?tab=repositories" style="margin-right: 1rem" target="_blank">GitHub</a>
+            <a class="masthead-link py-1 px-0" href="https://forms.gle/DMkWmWke1dopJnzD7" style="margin-right: 1rem" target="_blank">Contact</a>
+        </nav>
+    </footer>
+
+</div>
+
+<div class="inner-cursor"></div>
+<div class="outer-cursor"></div>
+
+<script src="js/cursor.js"></script>
+
+<script src="js/scramble.js"></script>
+
+<script src="js/transition.js"></script>
+
+
+</body>
+</html>

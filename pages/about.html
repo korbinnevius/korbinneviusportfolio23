@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>About</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="../css/custom.css">
+    <link rel="icon" href="../images/favicon.png" type="image/x-icon" />
+
+    <style>
+        .image-left img{
+            border-radius: 50vw 0vw 50vw 50vw;
+            object-fit: cover;
+        }
+
+        @media (max-width: 768px){
+            .about-description{
+                text-align: center;
+            }
+            main{
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+        }
+    </style>
+
+</head>
+<body class="d-flex h-100 text-center">
+<div class="container d-flex w-100 h-100 mx-auto flex-column">
+
+    <header class="mb-auto header glowing-border"
+            style="--border-radius: 0vw 0vw 0vw 0vw; --background-glow-color: rgb(7,7,7); --border-width: 1px;
+            border-left: 0; border-right: 0; border-top: 0;">
+        <div>
+            <h3 class="float-md-start mb-2 flex-wrap:wrap">Hi, I'm Korbin</h3>
+            <nav class="masthead justify-content-center float-md-end">
+                <a class="masthead-link fw-bold py-1 px-2" aria-current="page" href="../index.html">Home</a>
+                <a class="masthead-link fw-bold py-1 px-2 masthead-active" href="about.html">About</a>
+                <a class="masthead-link fw-bold py-1 px-2" href="resume.html">Resume</a>
+                <a class="masthead-link fw-bold py-1 px-2" href="3d.html">3D</a>
+                <a class="masthead-link fw-bold py-1 px-2" href="2d.html">2D</a>
+
+            </nav>
+        </div>
+    </header>
+
+
+    <main class="px-3"
+          style="padding-top: 6em; padding-bottom: 2em; display: flex; text-align: center; gap: 20px;">
+        <div class="image-left">
+            <img src="../images/headshot.jpg" style="width: 300px; max-width:100%; min-width: 250px; height: auto;" alt=""/>
+        </div>
+        <div class="about-description" style="text-align: left;">
+            <h1 style="font-size: 2rem">About</h1>
+            <p class="lead" style="font-size: 1.2rem">I design characters, creatures, and props with the desire
+                to make them look as real as possible. With a BA in Immersive Media
+                from Chatham University and a background spanning game design, graphic
+                design, and emerging tech like VR and AR, I think about design as a
+                form of storytelling. I’m constantly pushing to deepen the connection
+                between the audience and my experience. I'm always open to projects
+                that push me as a designer and improve my design skills. </p>
+            <div>
+                <a href="resume.html" class="fw-bold px-0 masthead-link py-1" style="font-size: 1.2rem; border-bottom: 2px solid #dde1e5 ;">Resume</a>
+            </div>
+        </div>
+    </main>
+
+
+
+    <footer class="mt-auto p-2 glowing-border"
+            style="--border-radius: 0vw 0vw 0vw 0vw; --background-glow-color: rgb(21,21,21); --border-width: 1px;
+            border-left: 0; border-right: 0; border-bottom:0;
+            ">
+        <nav class="masthead justify-content-center"
+             style="padding-top: 0.75em; padding-bottom: 0.75em;">
+            <a class="masthead-link py-1 px-0" href="https://shinyy.artstation.com/" style="margin-right: 1rem" target="_blank">ArtStation</a>
+            <a class="masthead-link py-1 px-0" href="https://github.com/korbinnevius?tab=repositories" style="margin-right: 1rem" target="_blank">GitHub</a>
+            <a class="masthead-link py-1 px-0" href="https://forms.gle/DMkWmWke1dopJnzD7" style="margin-right: 1rem" target="_blank">Contact</a>
+        </nav>
+    </footer>
+
+</div>
+
+<div class="inner-cursor"></div>
+<div class="outer-cursor"></div>
+<script src="../js/cursor.js"></script>
+<script src="../js/transition.js"></script>
+
+
+</body>
+</html>
