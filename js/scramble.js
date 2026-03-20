@@ -5,7 +5,7 @@ function scramble(element, finalText, duration = 1500, delay = 0, glitchCount = 
         let start = null;
         const totalChars = finalText.length;
 
-        // Pick random non-space indices to stay glitchy
+        // Pick random non-space characters
         const validIndices = [];
         for (let i = 0; i < totalChars; i++) {
             if (finalText[i] !== ' ') validIndices.push(i);
@@ -23,7 +23,7 @@ function scramble(element, finalText, duration = 1500, delay = 0, glitchCount = 
                 if (finalText[i] === ' ') {
                     display += ' ';
                 } else if (resolved && glitchIndices.has(i)) {
-                    // Occasionally flash the real char to feel unstable, not fully broken
+                    // Occasionally flash the real characters
                     display += Math.random() < 0.75
                         ? finalText[i]
                         : chars[Math.floor(Math.random() * chars.length)];
@@ -38,7 +38,7 @@ function scramble(element, finalText, duration = 1500, delay = 0, glitchCount = 
             return display;
         }
 
-        // Phase 1: scramble resolving
+        // resolve
         function step(timestamp) {
             if (!start) start = timestamp;
             const elapsed = timestamp - start;
@@ -50,10 +50,10 @@ function scramble(element, finalText, duration = 1500, delay = 0, glitchCount = 
             if (progress < 1) {
                 requestAnimationFrame(step);
             } else {
-                // Phase 2: unstable glitch loop at irregular intervals
+                // flicker
                 function glitchLoop() {
                     element.textContent = getDisplay(totalChars, true);
-                    // Random delay makes it feel organic and unstable
+
                     const nextDelay = glitchSpeed + Math.random() * 120;
                     setTimeout(glitchLoop, nextDelay);
                 }
@@ -65,7 +65,7 @@ function scramble(element, finalText, duration = 1500, delay = 0, glitchCount = 
     }, delay);
 }
 
-// Run on page load
+
 window.addEventListener('DOMContentLoaded', () => {
     const targets = document.querySelectorAll('[data-scramble]');
     targets.forEach((el, i) => {
