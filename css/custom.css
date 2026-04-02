@@ -297,7 +297,7 @@ footer{
     background: var(--gradient-colors);
     filter: blur(.5rem);
     opacity: 0.5;
-    animation: border-glitch 2s steps(1) infinite;
+    /*animation: border-glitch 2s steps(1) infinite;*/
 }
 
 .carousel{
