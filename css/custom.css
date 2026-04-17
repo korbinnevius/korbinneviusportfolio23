@@ -427,7 +427,7 @@ footer{
 
 .image-link:hover .holo-border {
     opacity: 1;
-    animation: borderJitter 0.25s infinite steps(2);
+    animation: borderJitter 0.75s infinite steps(2);
 }
 
 .image-link:hover .holo-border::before {
@@ -440,9 +440,9 @@ footer{
 
 @keyframes borderJitter {
     0% {transform: translate(0,0) scale(1)}
-    25% {transform: translate(-3px,2px) scale(1.03)}
-    50% {transform: translate(3px,-2px) scale(0.97)}
-    75% {transform: translate(-2px,-1px) scale(1.01)}
+    25% {transform: translate(0px,1px) scale(1.03)}
+    50% {transform: translate(1px,0px) scale(0.97)}
+    75% {transform: translate(-1px,0px) scale(1.01)}
     100% {transform: translate(0,0) scale(1)}
 }
 
@@ -452,11 +452,11 @@ footer{
     100% {transform: translate(-2px,1px)}
 }
 
-@keyframes borderSplitB {
-    0% {transform: translate(3px,-2px)}
-    50% {transform: translate(-3px,2px)}
-    100% {transform: translate(2px,-1px)}
-}
+/*@keyframes borderSplitB {*/
+/*    0% {transform: translate(3px,-2px)}*/
+/*    50% {transform: translate(-3px,2px)}*/
+/*    100% {transform: translate(2px,-1px)}*/
+/*}*/
 
 .holo-image img{
     /*position: relative;*/
@@ -547,7 +547,7 @@ footer{
 
 .holo-image:hover .scan-line{
     opacity: 1;
-    animation: scan 0.9s linear infinite;
+    animation: scan 2s linear infinite;
 }
 
 @keyframes imageGlitch {
